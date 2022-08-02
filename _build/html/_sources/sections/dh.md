@@ -14,7 +14,7 @@
     * ***[How Did They Make That? by Miriam Posner](https://miriamposner.com/blog/how-did-they-make-that/)***
     *  ***[How Did They Make That? The Video!by Miriam Posner](http://miriamposner.com/blog/how-did-they-make-that-the-video/)*** 
 
-* **Consider the following question and take notes before the session. 
+* *Consider the following questions and take notes before the session.* 
 
    * How do the concepts raised by Posner relate to DH projects that you have thought about as a model or template for your work?  
    * What affordances and limitations are discussed?  
@@ -125,7 +125,7 @@ Like reading a bibliography:
   * "Threshold concepts represent information previously not known by the learner, and once a person learns and understands that information, it permanently and drastically changes their perception of the topic." [(Meyer, Land & Baillie, 2010)](https://acrl.ala.org/dh/2020/06/22/data-literacy-as-digital-humanities-literacy-exploration-of-threshold-concepts/)  
 ## **[Technological Pedagogical and Content Knowledge (TPACK)](http://cristurple.blogspot.com/p/tpack.html)**
 
-[![TPACK](../images/tpack.jpg)](http://cristurple.blogspot.com/p/tpack.html)
+[![TPACK](../blob/main/sections/images/tpack.jpg)](http://cristurple.blogspot.com/p/tpack.html)
 
 
 ## Group work & project planning
