@@ -250,9 +250,9 @@ Look back at our example of cats to see how they may or may not follow those gui
 
 * [Data discussion handout: To download this PDF, click on this link, it should automatically download.](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/handoutdata.pdf)
 
-[![tasks](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/images/datalifecycle.png)](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/bigdatalessons.pdff)
+[![datalifecycle](../sections/images/datalifecycle.png)](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/bigdatalessons.pdf)
 
-[![tasks](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/images/3challenges.png)](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/bigdatalessons.pdf) 
+[![3challenges](../sections/images/3challenges.png)](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/bigdatalessons.pdf) 
 
 
 # Data and power

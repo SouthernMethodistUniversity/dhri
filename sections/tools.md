@@ -72,7 +72,7 @@ We have been discussing different aspects and stages of digital scholarship proj
     * ["It Doesn't Work:" Failure and DH Tools *(video)*](https://univr.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2b012f49-5821-411f-bbb3-abf800f3eb54)
     * ["It Doesn't Work:" Failure and DH Tools *(text)*](http://quinndombrowski.com/?q=blog/2020/07/21/it-doesnt-work-failure-and-dh-tools)     
 
-# :yellow_circle: How to choose a tool :yellow_circle:   
+# How to choose a tool
 ## How to find a tool       
 * Note: There is **no** comprehensive list of DH tools. We recommend thinking of what type of tool you are looking for, using broad search terms, and searching on the open web for them. (Some libraries or DH Centers do maintain small curated lists.) 
     * You could see what a project with similar goals or methodolgies has done (refer back to M Posner). 
@@ -136,10 +136,12 @@ In this session we are building on what we discussed in the previous data sessio
 * A tool for geospatial analysis: [ARC-GIS](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview)
     * ARC-GIS contains data *sources*, allows for *processing and analysis* of that data, and you can use it to create an presentation layer or *output* of maps. 
 
-    # Summary: **What to do before this synchronous session**
+# Summary
+
+**What to do before this synchronous session**
 
 ## eternal september 
-:white_check_mark: **Read the following post.**
+ **Read the following post.**
 * ***[eternal september of the digital humanities by Bethany Nowviskie](http://nowviskie.org/2010/eternal-september-of-the-digital-humanities/)***
 * How does the author discuss communities of practice in DH? 
 * How have they changed for her? What is your experience with them? 
@@ -147,7 +149,7 @@ In this session we are building on what we discussed in the previous data sessio
 * *What does it mean to practice as digital humanist?* 
 
 ## Failure and DH tools: It's not working!  
-:white_check_mark: Watch the video *or* read the text of this talk *"It Doesn't Work:" Failure and DH Tools"* by Quinn Dombrowski. 
+Watch the video *or* read the text of this talk *"It Doesn't Work:" Failure and DH Tools"* by Quinn Dombrowski. 
 * "But let’s first talk about DH tools, and the ways they "don’t work." One thing I’ve learned, over my years of doing direct end-user support, is that — what it is that “doesn’t work” often depends on your perspective." 
 * "Navigating technical documentation, and instructions not written with your particular perspective in mind, are skills you develop over time."  
     * ["It Doesn't Work:" Failure and DH Tools *(video)*](https://univr.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2b012f49-5821-411f-bbb3-abf800f3eb54)
@@ -155,7 +157,7 @@ In this session we are building on what we discussed in the previous data sessio
 
 ###  We will be using the frameworks from Nowviskie & Dombrowski to frame our synchronous discussion on how to search for tools.
 
-## :white_check_mark: What are the types of tools available?
+## What are the types of tools available?
 What is it you are trying to do? Does a tool exist for your particular need?  
 * **Activity:** If we look at a website for a particular tool, what assumptions did the tools' designers make about what users are trying to do?  
     * [Choose from this list of tools from Duke.](https://digitalhumanities.duke.edu/tools) 

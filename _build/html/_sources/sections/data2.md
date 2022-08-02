@@ -55,6 +55,8 @@ Cultural heritage institutions like archives and museums can require that you as
 ## Copyright permissions workflow 
 Licensing, copyright, and fair use all together in a workflow diagram for determining when to seek permission to use a copyrighted work.
 ![tasks](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/images/CPW.jpg)
+
+[![Copyright Workflow](../sections/images/CPW.jpg)]
  
 ## Creative Commons 
 [What is a Creative Commons license?](https://creativecommons.org/share-your-work/)
