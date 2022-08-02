@@ -125,7 +125,7 @@ Like reading a bibliography:
   * "Threshold concepts represent information previously not known by the learner, and once a person learns and understands that information, it permanently and drastically changes their perception of the topic." [(Meyer, Land & Baillie, 2010)](https://acrl.ala.org/dh/2020/06/22/data-literacy-as-digital-humanities-literacy-exploration-of-threshold-concepts/)  
 ## **[Technological Pedagogical and Content Knowledge (TPACK)](http://cristurple.blogspot.com/p/tpack.html)**
 
-[![tasks](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/images/tpack.jpg)](http://cristurple.blogspot.com/p/tpack.html)
+[![TPACK](../images/tpack.jpg)](http://cristurple.blogspot.com/p/tpack.html)
 
 
 ## Group work & project planning

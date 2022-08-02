@@ -4,7 +4,7 @@
 
 * [Go here for information on previous years DHRI](https://southernmethodistuniversity.github.io/home/about.html)
 
-* [**Go here for information on upcoming workshops at SMU**](https://www.smu.edu/libraries/help/workshops)
+* [Go here for information on **upcoming workshops** at SMU](https://www.smu.edu/libraries/help/workshops)
 
 
 
