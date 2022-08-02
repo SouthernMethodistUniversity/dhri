@@ -62,7 +62,7 @@ In this session, attendees should come to understand how to define DH (in a way 
 * What are humanities questions?
 
 ### What is computational thinking?
-* Command thinking (Intro. to Computer science, STS (Science and Technology Studies), etc.). We will be discussing this more when we discuss [coding.](https://github.com/SouthernMethodistUniversity/coding)   
+* Command thinking (Intro. to Computer science, STS (Science and Technology Studies), etc.). We will be discussing this more when we discuss [coding.](https://southernmethodistuniversity.github.io/dhri/sections/whycoding.html)   
 * "Computational thinking is a pattern of problem solving that involves organizing and analyzing data, abstracting in search of patterns, and breaking complex problems into discrete, solvable parts." [Jeannette Wing, 2006, doi: 10.1145/1118178.1118215](https://dl.acm.org/doi/10.1145/1118178.1118215) 
 * "It enables humanities researchers to formulate new questions and to think through how to leverage both data and computational processes to explore those questions. While these skills may be taught in the context of a particular programming language, in our case Python, the patterns of thought are transferable to any language or computational process."
 [Lessons Learned from “Bridging the Gap: Women, Code, and the Digital Humanities” Reflection on 2014 ACH Microgrant by Celeste Sharpe and Jeri Wieringa](http://ach.org/blog/2015/05/06/bridging-the-gap/)
@@ -125,26 +125,26 @@ Like reading a bibliography:
   * "Threshold concepts represent information previously not known by the learner, and once a person learns and understands that information, it permanently and drastically changes their perception of the topic." [(Meyer, Land & Baillie, 2010)](https://acrl.ala.org/dh/2020/06/22/data-literacy-as-digital-humanities-literacy-exploration-of-threshold-concepts/)  
 ## **[Technological Pedagogical and Content Knowledge (TPACK)](http://cristurple.blogspot.com/p/tpack.html)**
 
-[![tasks](https://github.com/DHRISMU/intro/blob/master/images/tpack.jpg)](http://cristurple.blogspot.com/p/tpack.html)
+[![tasks](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/images/tpack.jpg)](http://cristurple.blogspot.com/p/tpack.html)
 
 
 ## Group work & project planning
 ### Project planning models 
 
-* [Project Charter](https://github.com/SouthernMethodistUniversity/projectplan/blob/master/sections/charters-handout.pdf) 
+* [Project Charter](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/charters-handout.pdf) 
 * [MOU](https://rc.library.uta.edu/uta-ir/handle/10106/25646)
 * PMP: [Project Management Office (PMO) @SMU](https://www.smu.edu/OIT/Governance)
 
 ***Recurring questions to keep in mind: What are the affordances of choosing this path? What are the limitations?*** 
 
-* You can use a [project charter](https://github.com/SouthernMethodistUniversity/projectplan/blob/master/sections/charters-handout.pdf) as a lightweight example of collaborative brainstorming and documentation.
+* You can use a [project charter](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/charters-handout.pdf) as a lightweight example of collaborative brainstorming and documentation.
 
 
 # :How did they do *this* specific project? 
 * ***We will be discussing this page in our synchronous meeting. You do not need to engage with this page before the synchronous session.***
 * What does a project site tell you about *how* it was done? 
-* [Activity handout](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/evaluate_handout.pdf)
-* [How did they make that handout](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/how-handout.pdf)  
+* [Activity handout](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/evaluate_handout.pdf)
+* [How did they make that handout](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/how-handout.pdf)  
  * "Many students tell me that in order to get started with digital humanities, they’d like to have some idea of what they might do and what technical skills they might need in order to do it." [by Miriam Posner](http://miriamposner.com/blog/how-did-they-make-that/)
 
 ### Torn Apart/Separados, a project which has two phases.
@@ -170,7 +170,7 @@ Like reading a bibliography:
 * What type of computation or tool might you use?
 
 ## Planning a project
-* How might you fill out this [Project Charter handout ?](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/charters-handout.pdf)
+* How might you fill out this [Project Charter handout?](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/charters-handout.pdf)
 * We will return to this in the Project Planning discussion. 
 
 ## Further Activities (optional)

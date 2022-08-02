@@ -1,10 +1,10 @@
  # One Day Project
 
 * Thinking back to analyzing a project site.  What did it tell you about *how* it was done? 
-* [Activity handout](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/evaluate_handout.pdf) 
+* [Activity handout](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/evaluate_handout.pdf) 
 
 * What is your question?
-[Charter handout](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/charters-handout.pdf) 
+[Charter handout](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/charters-handout.pdf) 
 
 * Sources
 -Data

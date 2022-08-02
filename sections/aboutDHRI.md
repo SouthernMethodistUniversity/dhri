@@ -1,11 +1,11 @@
 # Welcome to DHRI@SMU 2022!
 
 ## Before DHRI begins, please do the following: 
-### Zoom (tbd)
+### Zoom 
 * We will be using [Zoom](https://www.smu.edu/OIT/services/zoom) for discussion.
-    * If you have not used Zoom before, please make an [appointment with Rafia](https://guides.smu.edu/rafia) before DHRI to become familiar with Zoom.  
+    * If you have not used Zoom before, please make an appointment with Rafia before DHRI to become familiar with Zoom.  
     
-### Slack (OR teams? update)
+### Slack
 * As we are working to build a community of practice, we are exploring multiple ways of communication. For this institute, we will be using Slack as the asynchronous communication method during the institute. (We will be using Zoom for synchronous discussion during this institute.)
 * [How the Digital Humanities are using Slack to support and build a geographically dispersed intellectual community](https://blogs.lse.ac.uk/impactofsocialsciences/2016/07/13/using-slack-to-support-a-geographically-dispersed-community/).
 * [Getting Started for New Slack Users](https://slack.com/help/articles/218080037-Getting-started-for-new-Slack-users).
@@ -20,22 +20,17 @@
 
 ## Process for DHRI
 # What you can expect 
-* You will sit in groups at tables
-* We want to to work together to come to solutions. 
+* You will sit in groups at tables, We want to to work together to come to solutions and build a community of practice. 
 - [A better way to teach technical skills to a group](http://miriamposner.com/blog/a-better-way-to-teach-technical-skills-to-a-group/)
-* We will be sharing the links to a Github Repository for each session in Slack before each synchronous session. You can also get to them from the [Curriculum page](https://southernmethodistuniversity.github.io/home/curriculum.html).
-* This is the first year where DHRI has been planned to have both asynchronous and synchronous components. Here is how we have organized the content.  
-   * As you are reading, we you will see two categories of activities:
-      * **Pre-session activities (PSA)** (indicated by check mark surrounded by green :white_check_mark:). Please make sure you do these activities/read this content before a session. Some questions have corresponding Slack channels or discussion, others are just marked so you are thinking about them beforehand as they are topics we will be discussing in the synchronous session.  
-      * **In session activities (ISA)** (indicated by a yellow dot :yellow_circle:). This indicates a page that has activities/content we will go over together; you do not need to engage with this content ahead of time. 
-* As you read each repository please put questions/comments in the Slack channel. 
+* As you are reading, we you will see two categories of activities:
+      * **Pre-session activities (PSA)**  Please make sure you do these activities/read this content before a session. Some questions have corresponding Slack channels or discussion, others are just marked so you are thinking about them beforehand as they are topics we will be discussing in the synchronous session.  
+      * **In session activities (ISA)**  This indicates a page that has activities/content we will go over together; you do not need to engage with this content ahead of time. 
+* As you [read each session](https://southernmethodistuniversity.github.io/dhri/index.html) please put questions/comments in the Slack channel. 
 * If text appears blue in a repository, that just means it is a hyperlink.
     * These repositories are structured in such a way that they will direct our conversations during the institute, but also so that you can return to them later to review the material. 
 
-## Required before this session (8/3/21)
-* All content is :white_check_mark: marked throughout; it is also all gathered on [this page](sections/async.md). 
 
-## Introduction to DHRI@SMU 2021
+## Introduction to DHRI@SMU 2022
 
 * As part of our welcome process, we’ll provide some of the history of the project, review the schedule,establish the objectives for the Institute, and ask participants to engage in an introductions and ice breaker activity. We’ll review the objectives and the schedule for the next few days, sort out pedagogical practices, and set our ambitious course for our time together. Everything we do throughout the institute is collaboratively and community-driven. 
 
@@ -52,7 +47,7 @@ By the end of the week, attendees will not be digital humanities experts, but th
 
 
 # Logistics
-If you have any questions about this page, contact [Rafia](https://guides.smu.edu/rafia).
+If you have any questions about this page, contact [Rafia](https://guides.smu.edu/prf.php?account_id=142826).
 
 ## Location: Online (Zoom)
 *  We will be using [Zoom](https://www.smu.edu/OIT/services/zoom) for discussion.
@@ -66,7 +61,7 @@ If you have any questions about this page, contact [Rafia](https://guides.smu.ed
 * Each session will have a lead facilitator/instructor, but an additional facilitator will always be present and participating in chat on Slack. 
 
 ## Schedule
- * [Schedule](https://github.com/SouthernMethodistUniversity/intro/blob/master/schedule.pdf)
+ * [Schedule](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/schedule.pdf)
  * All times listed are CDT (Central Daylight Time).
 
 # Introduction of our DHRI@SMU 2022 cohort
@@ -86,7 +81,6 @@ If you have any questions about this page, contact [Rafia](https://guides.smu.ed
 ## Instructors for DHRI@SMU2022
 * [Rafia Mirza, Humanities Librarian](http://guides.smu.edu/prf.php?account_id=142826)
 * [Jonathan McMichael, User Experience Librarian](http://guides.smu.edu/prf.php?account_id=104877)
-* Joanna Russell Bliss, Research and User Experience Intern
 * [Eric Godat, Data Science Research Applications Developer](https://www.smu.edu/OIT/research)
 
 ## Participant cohort for DHRI@SMU 2022

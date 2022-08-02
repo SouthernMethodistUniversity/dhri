@@ -28,8 +28,8 @@
 [Software Carpentry](https://software-carpentry.org/lessons/)
 
 * Under the Software Carpentry umbrella are:
-* * [Data Carpentry](https://datacarpentry.org/lessons/)
-* * [Library Carpentry](https://librarycarpentry.org/lessons/)
+* [Data Carpentry](https://datacarpentry.org/lessons/)
+* [Library Carpentry](https://librarycarpentry.org/lessons/)
 
 * Here is an external [command line tutorial](https://ryanstutorials.net/linuxtutorial/) if you wish to learn more.
 

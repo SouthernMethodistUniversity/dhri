@@ -8,7 +8,7 @@ We have been discussing different aspects and stages of digital scholarship proj
 ## How do you look for or choose a tool?
 * Like any other type of a tool, you want to look for a tool that helps you accomplish a specific task. 
 * What is it you are trying to *do*?
-    * We are referring back to the [M. Posner reading](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/async.md#white_check_mark-read-the-following-post-and-watch-the-video-before-this-session) in this session.
+    * We are referring back to the [M. Posner reading](https://southernmethodistuniversity.github.io/dhri/sections/dh.html#how-did-they-do-that-general) in this session.
 * Since a tool is a 'fancy program' someone else (or multiple someones) wrote. What did they create it to do? 
 * Think about the stage you are at in your project. Does the tool do what you need at this stage? 
     * You can assess a tool like we assess a project. What does the *About* page say? Is there a gallery or example page? 
@@ -50,7 +50,7 @@ We have been discussing different aspects and stages of digital scholarship proj
         * How might we expand past those limitations? 
 
 * An important step in acculturation to DH methodologies is learning how to translate you goals into the language and categories sued by tools and training documentation. In this example from Programming Historian, you can see how lessons fall into broad phases or categories.While these are nto a 1-1 match to language we used in previous session, the frameworks are consistent. (sustain is similar to preserve, acquire is similar to collect)
-[![tasks](https://github.com/SouthernMethodistUniversity/tools/blob/master/images/phlessons.PNG)](https://programminghistorian.org/posts/full-text-search)       
+[![tasks](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/images/phlessons.PNG)](https://programminghistorian.org/posts/full-text-search)       
 
 
 # Being a newcomer to digital scholarship       

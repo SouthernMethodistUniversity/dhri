@@ -18,14 +18,14 @@
 * How do we ask questions of data? How do we tell stories? 
 * Data and power
 * Lessons for “big data”
-    * Read more about[the definition and practice of data science](https://runestone.academy/ns/books/published/httlads/Introduction/introduction.html)
+    * Read more about [the definition and practice of data science](https://runestone.academy/ns/books/published/httlads/Introduction/introduction.html)
 
 # Data in the humanities 
 * When we talk about data in the humanities, what do we mean?
 [Big? Smart? Clean? Messy? Data in the Humanities](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/)
 
 # What is data ? 
-* What are the stages of data ?
+* What are the stages of data?
 * We begin without data. Then it is *observed*, or *made*, or *imagined*, or *generated.* After that, it goes through further transformations.
 
 
@@ -79,7 +79,7 @@ List of forms adapted from: [Georgia Tech](https://libguides.gatech.edu/)
 
 
 ## Raw data 
-* Raw data is yet to be processed, meaning it has yet to be manipulated by a human or computer. Received or collected data could be in any number of formats, locations, etc.. It could be in any of the forms listed [further down](https://github.com/SouthernMethodistUniversity/data/blob/master/sections/types.md#forms-of-data).
+* Raw data is yet to be processed, meaning it has yet to be manipulated by a human or computer. Received or collected data could be in any number of formats, locations, etc.. It could be in any of the forms listed [further down](https://southernmethodistuniversity.github.io/dhri/sections/data1.html#forms-of-data).
 
 * But "raw data" is a relative term, inasmuch as when one person finishes processing data and presents it as a finished product, another person may take that product and work on it further, and for them that data is "raw data". 
 
@@ -133,7 +133,7 @@ Tiger,Jaws/n
 ### Data formats
 A small detour to discuss (the ethics of?) data formats. For accessibility, future-proofing, and preservation, keep your data in open, sustainable formats. A demonstration:
 
-1. If you click on [this link,](https://github.com/SouthernMethodistUniversity/data/blob/master/sections/cats.zip) and then click on the Download option on the right hand side of the page, this will download a .Zip file. the Zip file contains 2 files named cats. 
+1. If you click on [this link,](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/cats.zip) and then click on the Download option on the right hand side of the page, this will download a .Zip file. the Zip file contains 2 files named cats. 
 2. Open cats.csv file in a text editor, and then in an app like Excel. This is a CSV, an open, text-only, file format.
 3. Now try to do the same with cats.xlsx. This is a proprietary format! 
 
@@ -248,11 +248,11 @@ Look back at our example of cats to see how they may or may not follow those gui
 
  ## Handout for data discussion 
 
-* [Data discussion handout: To download this PDF, click on this link, it should automatically download.](https://github.com/SouthernMethodistUniversity/data/raw/master/sections/handoutdata.pdf)
+* [Data discussion handout: To download this PDF, click on this link, it should automatically download.](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/handoutdata.pdf)
 
-[![tasks](https://github.com/DHRISMU/data/blob/master/images/datalifecycle.png)](https://github.com/DHRISMU/data/blob/master/sections/bigdatalessons.pdf)
+[![tasks](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/images/datalifecycle.png)](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/bigdatalessons.pdff)
 
-[![tasks](https://github.com/DHRISMU/data/blob/master/images/3challenges.png)](https://github.com/DHRISMU/data/blob/master/sections/bigdatalessons.pdf) 
+[![tasks](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/images/3challenges.png)](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/bigdatalessons.pdf) 
 
 
 # Data and power
@@ -327,16 +327,16 @@ Zook, Matthew et al. “Ten simple rules for responsible big data research.” P
 
 #  About your data project 
 * What topic(s) do you want to focus on?
-* What kind(s) of [data](https://github.com/SouthernMethodistUniversity/data/blob/master/sections/yourdata.md)will you need?
+* What kind(s) of [data](https://southernmethodistuniversity.github.io/dhri/sections/data2.html)will you need?
 * Do you already have a data set identified for use? 
     * Here is is a link to our [Datasets and Data Repositories guide](https://guides.smu.edu/data)
-* [To download the Lesson for Big Data handout as a PDF: click on this link, then click on Download button on top right of page.](https://github.com/DHRISMU/data/blob/master/sections/bigdatalessons.pdf)
+* [To download the Lesson for Big Data handout as a PDF: click on this link, then click on Download button on top right of page.](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/bigdatalessons.pdf)
     * This version of the handout has additional content. Download the PDF for links to be active; they are not active when you view the file online. 
 
 # Reflection (What to do *after* this session)
 * What would you put about your data in your timeline? When considering the data life cycle are there certain places that might present challenges to your research project
 * How might good project planning help you overcome some of those challenges? 
- * Refer back to the [Project Charter handout?](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/charters-handout.pdf) and add your notes. 
+ * Refer back to the [Project Charter handout?](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/charters-handout.pdf) and add your notes. 
 
 * Note: For the purposes of getting started with DH, we recommend finding an already existing data set for your project, as creating, cleaning and/or structuring a new dataset is often time and labor intensive. 
 

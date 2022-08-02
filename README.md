@@ -1,9 +1,10 @@
 # Background
 
-This is the repository for the session content that was planned for DHRI@SMU 2022.
+[Click here to go to the content that was planned for DHRI@SMU 2022.](https://southernmethodistuniversity.github.io/dhri/)
 
-* [Go here for information on previous years](https://southernmethodistuniversity.github.io/home/about.html)
-* [Go here for information on upcoming workshops at SMU](https://www.smu.edu/libraries/help/workshops)
+* [Go here for information on previous years DHRI](https://southernmethodistuniversity.github.io/home/about.html)
+
+* **[Go here for information on upcoming workshops at SMU]**(https://www.smu.edu/libraries/help/workshops)
 
 
 

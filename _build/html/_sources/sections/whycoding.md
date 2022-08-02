@@ -34,7 +34,7 @@ Understanding computing: This session is to familiarize you wth important founda
 * The applications on your device can access the resources in your machine. Each local environment becomes different with use. 
 * The [kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system)) connects the application software to the hardware of a computer.
 
-[![tasks](https://github.com/SouthernMethodistUniversity/DHRI/blob/main/images/kernel.png)](https://en.wikipedia.org/wiki/File:Kernel_Layout.svg)
+[![tasks](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/images/kernel.png)](https://en.wikipedia.org/wiki/File:Kernel_Layout.svg)
 
 
 
@@ -179,11 +179,11 @@ We want to give a general sense of this "text" we keep mentioning. Theire is wha
 
 As scholars working with computers, **we need to be aware of the ways plain text and formatted text differ.** Words on a screen may have hidden formatting. Many of us grew up using Microsoft Word and don't realize how much is going on behind the words shown on the screen. For the purposes of communicating with the computer and for easier movement between different programs, we need to use text without hidden formatting.
 
-![Word Doc](https://github.com/SouthernMethodistUniversity/coding/blob/master/images/worddoc.png)
+![Word Doc](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/images/worddoc.png)
 
 If you ask the command line to read that file, this Word .docx file will look something like this
 
-![Cat Word Doc](https://github.com/SouthernMethodistUniversity/coding/blob/master/images/CatWordDoc.png)
+![Cat Word Doc](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/images/CatWordDoc.png)
 
 Word documents which look like "just words!" are actually comprised of an archive of extensible markup language (XML) instructions that only Microsoft Word can read. Plain text files can be opened in a number of different editors and can be read within the command line.
 
@@ -332,7 +332,7 @@ Now that we have discussing computing, what are some of the challenges in coding
  
    
 ## Before the Python session 
-* Go to [this page](https://github.com/SouthernMethodistUniversity/DHRI_python#running-the-notebook-via-jupyterlab-on-m2) and see if you can do steps 1 and 2 to log on to ManeFrame II.
+* Go to [this page](https://southernmethodistuniversity.github.io/dhri/sections/python.html#running-the-notebook-via-jupyterlab-on-m2) and see if you can do steps 1 and 2 to log on to ManeFrame II.
     *  If not, let us know before the session. 
 
 
