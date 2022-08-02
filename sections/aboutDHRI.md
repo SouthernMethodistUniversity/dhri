@@ -141,9 +141,9 @@ While these results are desirable, we find that students who know how to use the
     * When you are setting up your tools, questions are being asked that will shape the answers/results you get. If the set up questions don't make sense, you will have a better sense of what expertise you want to seek out to help you choose. 
              * *Note:* Skills in programming or tools only grow when you are using them to complete a project (skill building is usually project-based).
 
-* **Access.**  When accessing or creating datasets; there are many considerations, including copyright, licensing, and ethics.
+* **Data & Access.**  When accessing or creating datasets; there are many considerations, including copyright, licensing, and ethics.
 
-* In the closing **Project Planning and Project Lab** sections, we will work on applying what we have discussed to your specific research questions and projects. 
+* In the closing **Project Planning and One Day Project Lab** sections, we will work on applying what we have discussed to your specific research questions and projects. 
 
 * To build a complete project or thorough expertise is beyond the scope of this institute, but we want to help you build the foundation, and perhaps even an outline of your goal. We want to help you get to a point where you are comfortable figuring it out ([Stack Exchange](https://stackexchange.com/about)) or, when you know you have a question, how to phrase it and find the expertise you want to draw upon ([Community of Practice](http://www.communityofpractice.ca/background/what-is-a-community-of-practice/)).
 

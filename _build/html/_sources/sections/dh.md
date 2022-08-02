@@ -140,7 +140,7 @@ Like reading a bibliography:
 * You can use a [project charter](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/charters-handout.pdf) as a lightweight example of collaborative brainstorming and documentation.
 
 
-# :How did they do *this* specific project? 
+# How did they do *this* specific project? 
 * ***We will be discussing this page in our synchronous meeting. You do not need to engage with this page before the synchronous session.***
 * What does a project site tell you about *how* it was done? 
 * [Activity handout](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/evaluate_handout.pdf)
