@@ -5,15 +5,13 @@
 Click on the link to see each lesson or click on [![Binder](https://mybinder.org/badge_logo.svg)to launch the jupyter notebook in an interactive envorinment. 
 
 * [Introduction to Python Programming](https://github.com/SouthernMethodistUniversity/dhri/blob/main/docs/jupyter_execute/sections/intro_to_python.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SouthernMethodistUniversity/dhri/main?labpath=%2Fdocs%2Fhtml%2F_sources%2Fsections%2Fintro_to_python.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SouthernMethodistUniversity/dhri/main?labpath=sections%2Fintro_to_python.ipynb)
 
 * [Introduction to Working with Text in Python](https://github.com/SouthernMethodistUniversity/dhri/blob/main/docs/jupyter_execute/sections/intro_to_working_with_text.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SouthernMethodistUniversity/dhri/main?labpath=%2Fdocs%2Fhtml%2F_sources%2Fsections%2Fintro_to_working_with_text.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SouthernMethodistUniversity/dhri/main?labpath=sections%2Fintro_to_working_with_text.ipynb)
 
 * [Intermediate TextMining with Python](https://github.com/SouthernMethodistUniversity/dhri/blob/main/docs/jupyter_execute/sections/intermediate_textmining.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SouthernMethodistUniversity/dhri/main?labpath=%2Fdocs%2Fhtml%2F_sources%2Fsections%2Fintermediate_textmining.ipynb)
-
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SouthernMethodistUniversity/dhri/main?labpath=sections%2Fintermediate_textmining.ipynb)
 
 
 
