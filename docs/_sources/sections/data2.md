@@ -558,8 +558,10 @@ Questions
 * * Do these raise new questions for you about the datasets you are thinking about creating?
 * * Do these raise new questions for you about the datasets you are thinking about using?-->
 -----
+### Attribution 
+
 Session Leaders: [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) & [Jonathan McMichael](http://guides.smu.edu/prf.php?account_id=104877)
-* Written by Rafia Mirza. Edited by Joanna Russell Bliss.
+* Written by Rafia Mirza. 
 
 Session partially adapted from:
 * [Recap of our Workshop on Copyright in Digital Humanities](https://wp.nyu.edu/dss/2015/04/17/polonsky-copyright-workshop-2015/), used under a Creative Commons Attribution 4.0 Unported License (CC BY 4.0). 

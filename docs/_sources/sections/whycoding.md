@@ -336,6 +336,7 @@ Now that we have discussing computing, what are some of the challenges in coding
 
 
 -----
+### Attribution 
 
 Session Leaders:  [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) & [Jonathan McMichael](http://guides.smu.edu/prf.php?account_id=104877)
 * Written by Rafia Mirza. 

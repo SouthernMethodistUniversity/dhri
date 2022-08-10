@@ -381,6 +381,7 @@ Further reading: This 3-part series on data journalism and data projects in gene
 
 
 -----
+### Attribution 
 
 Session Leaders: [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) & [Jonathan McMichael](http://guides.smu.edu/prf.php?account_id=104877)
 * Written by Rafia Mirza. 

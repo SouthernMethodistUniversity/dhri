@@ -6,9 +6,15 @@ This is the repository for the session content that was planned for DHRI@SMU 202
 * [Go here for information on upcoming workshops at SMU](https://www.smu.edu/libraries/help/workshops)
 
 
-
+Content: 
+* Written by [Rafia Mirza](https://guides.smu.edu/prf.php?account_id=142826/)
+* Python content by [Eric Godat & Rob Kalescky ](https://www.smu.edu/Provost/Data-Science-Institute/People)
+* Instructional designer [Jonathan McMichael](https://guides.smu.edu/prf.php?account_id=104877)
+* Copyediting: Previous versions edited by Joanna Russell Bliss
+* Specific attributions listed at end of each session. 
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
 
 Our curriculum is based on the [Digital Research Institute (DHRI) Curriculum](https://github.com/DHRI-Curriculum) by [Graduate Center Digital Initiatives](https://gcdi.commons.gc.cuny.edu/). 
 
