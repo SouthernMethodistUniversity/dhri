@@ -640,8 +640,10 @@ Find one or two grant opportunities in your subject area. Consider also looking 
 
 
 -----
+### Attribution 
+
 Session Leader: [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) 
-* Written by Rafia Mirza. Edited by Joanna Russell Bliss.
+* Written by Rafia Mirza. 
 
 Based on previous work by Lisa Rhody and a WebWise workshop led by Sheila Brennan, Sharon Leon, and Lisa Rhody.
 

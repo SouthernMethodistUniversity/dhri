@@ -329,13 +329,8 @@ title="Print to PDF"
   </a>
   <ul class="visible nav section-nav flex-column">
    <li class="toc-h2 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#running-the-notebook-via-jupyterlab-on-m2">
-     Running the Notebook via JupyterLab on M2
-    </a>
-   </li>
-   <li class="toc-h2 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#running-the-notebook-via-jupyterlab-via-a-local-docker-installation">
-     Running the Notebook via JupyterLab via a Local Docker Installation
+    <a class="reference internal nav-link" href="#attribution">
+     Attribution
     </a>
    </li>
   </ul>
@@ -370,13 +365,8 @@ title="Print to PDF"
   </a>
   <ul class="visible nav section-nav flex-column">
    <li class="toc-h2 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#running-the-notebook-via-jupyterlab-on-m2">
-     Running the Notebook via JupyterLab on M2
-    </a>
-   </li>
-   <li class="toc-h2 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#running-the-notebook-via-jupyterlab-via-a-local-docker-installation">
-     Running the Notebook via JupyterLab via a Local Docker Installation
+    <a class="reference internal nav-link" href="#attribution">
+     Attribution
     </a>
    </li>
   </ul>
@@ -396,51 +386,17 @@ title="Print to PDF"
 </section>
 <section class="tex2jax_ignore mathjax_ignore" id="text-mining-with-python">
 <h1>Text Mining With Python<a class="headerlink" href="#text-mining-with-python" title="Permalink to this headline">#</a></h1>
-<p>The associated “Introduction to HPC and M2” slides can be found <a class="reference external" href="https://smu.box.com/s/y54cbtazhe9enfaomvb8eaxoi99jq0cn">here</a>.</p>
-<section id="running-the-notebook-via-jupyterlab-on-m2">
-<h2>Running the Notebook via JupyterLab on M2<a class="headerlink" href="#running-the-notebook-via-jupyterlab-on-m2" title="Permalink to this headline">#</a></h2>
-<ol class="simple">
-<li><p>Go to <a class="reference external" href="https://hpc.smu.edu/">hpc.smu.edu</a></p></li>
-<li><p>Sign in using your SMU ID and SMU password</p></li>
-<li><p>Select “ManeFrame II Shell Access” from the “Clusters” drop-down menu. (Note: If you are a new user, you might be prompted for a password. It will capture your keystrokes even if nothing you’re typing appears.)</p></li>
-<li><p>In the “Shell” tab type <code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">clone</span> <span class="pre">https://github.com/SouthernMethodistUniversity/DHRI_python.git</span></code> to clone the GitHub repository.</p></li>
-<li><p>In the same “Shell” tab type <code class="docutils literal notranslate"><span class="pre">cd</span> <span class="pre">DHRI_python</span></code> to change to repository’s directory to verify that it has been clone properly. (Typing <code class="docutils literal notranslate"><span class="pre">ls</span></code> should show files that have been downloaded.)</p></li>
-<li><p>In the “Dashboard” tab select “JupyterLab” from the “Interactive Apps” drop-down menu.</p></li>
-<li><p>Set the “Additional environment modules to load” field to <code class="docutils literal notranslate"><span class="pre">environment</span></code>.</p></li>
-<li><p>Set the “Custom module paths” field to <code class="docutils literal notranslate"><span class="pre">module</span> <span class="pre">use</span> <span class="pre">$HOME/DHRI_python</span></code>.</p></li>
-<li><p>Select other options required for your Jupyter instance. These options are the
-same as those requested via a standard Slurm script on M2. For this tutorial:</p>
+<p><span class="xref myst">Click here for Workshop content</span></p>
+<p>Access Jupyter notbooks though JupyterLite. JupyterLite is a JupyterLab distribution that runs entirely in the browser built from the ground-up using JupyterLab components and extensions.</p>
+<p>Additional resources:
+<a class="reference external" href="https://swcarpentry.github.io/python-novice-gapminder/">Plotting and Programming in Python</a>:This lesson is an introduction to programming in Python 3 for people with little or no previous programming experience. Via Software Carpentry</p>
+<hr class="docutils" />
+<section id="attribution">
+<h2>Attribution<a class="headerlink" href="#attribution" title="Permalink to this headline">#</a></h2>
+<p>Session Leader:<a class="reference external" href="https://www.smu.edu/Provost/Data-Science-Institute/People">Eric Godat</a></p>
 <ul class="simple">
-<li><p>Partition: <code class="docutils literal notranslate"><span class="pre">htc</span></code></p></li>
-<li><p>Number of hours: 3</p></li>
-<li><p>Number of nodes: 1</p></li>
-<li><p>Cores per node: 1</p></li>
-<li><p>GPUs per node: 0</p></li>
-<li><p>Memory: 6</p></li>
+<li><p>Written by Eric Godat.</p></li>
 </ul>
-</li>
-<li><p>Select “Launch”</p></li>
-<li><p>Wait for the job to start on M2. When the job starts a new button “Connect
-to JupyterLab” button will appear.</p></li>
-<li><p>Select “Connect to JupyterLab”</p></li>
-<li><p>The JupyterLab graphical interface will be presented and running on the M2
-resource requested.</p></li>
-<li><p>Double click the appropriate notebook to open it.</p></li>
-<li><p>When finished using the JupyterLab instance, return to the “My
-Interactive Sessions” tab in your browser and select “Delete” and “Confirm”,
-when prompted, to cancel the job on M2.</p></li>
-</ol>
-<p><strong>NOTE:</strong> To be sure you have the latest version of the environment and code. Everytime you log-in, you should go to “ManeFrame II Shell Access” from the “Clusters” drop-down menu and paste this command <code class="docutils literal notranslate"><span class="pre">cd</span> <span class="pre">DHRI_python</span> <span class="pre">&amp;&amp;</span> <span class="pre">git</span> <span class="pre">pull</span></code> then hit “Enter”.</p>
-</section>
-<section id="running-the-notebook-via-jupyterlab-via-a-local-docker-installation">
-<h2>Running the Notebook via JupyterLab via a Local Docker Installation<a class="headerlink" href="#running-the-notebook-via-jupyterlab-via-a-local-docker-installation" title="Permalink to this headline">#</a></h2>
-<ol class="simple">
-<li><p>Install <a class="reference external" href="https://docs.docker.com/get-docker/">Docker</a> and run commands below in terminal shell of your choice.</p></li>
-<li><p>Clone repository, <code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">clone</span> <span class="pre">https://github.com/SouthernMethodistUniversity/DHRI_python.git</span></code>.</p></li>
-<li><p>Change to repository directory, <code class="docutils literal notranslate"><span class="pre">cd</span> <span class="pre">DHRI_python</span></code>.</p></li>
-<li><p><code class="docutils literal notranslate"><span class="pre">docker</span> <span class="pre">run</span> <span class="pre">--rm</span> <span class="pre">-p</span> <span class="pre">8888:8888</span> <span class="pre">-e</span> <span class="pre">JUPYTER_ENABLE_LAB=yes</span> <span class="pre">-v</span> <span class="pre">$HOME:/home/jovyan</span> <span class="pre">rkalescky/text_mining_with_python:latest</span></code></p></li>
-<li><p>Copy and paste the last URL given into your web browser and the JupyterLab graphical interface will be presented.</p></li>
-</ol>
 </section>
 </section>
 
@@ -494,7 +450,7 @@ when prompted, to cancel the job on M2.</p></li>
   
     By LibrarianRafia, et al.<br/>
   
-      &copy; Copyright CC-BY-NC.<br/>
+      &copy; Copyright Some rights reserved. Chapters are &#34;CC-BY-NC&#34; or &#34;CC-BY-SA&#34;.<br/>
 </p>
         </footer>
     </div>

@@ -2,7 +2,7 @@
 # Book settings
 title                       : DHRI@SMU  # The title of the book. Will be placed in the left navbar.
 author                      : LibrarianRafia, et al.  # The author of the book
-copyright                   : "CC-BY-NC"  # Copyright year to be placed in the footer
+copyright                   : Some rights reserved. Chapters are "CC-BY-NC" or "CC-BY-SA"  # Copyright year to be placed in the footer
 logo                        : sections/logo.png  # A path to the book logo
 
 parse:
