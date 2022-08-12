@@ -243,8 +243,13 @@ Advantages cloud-based notebooks give instructors:
 - You may also see references to [Jupyter notebooks](https://jupyter.org/) in other digital humanities workshops.  
 - We are choosing for the sake of pedagogy and time to skip local installation. However, if you want to learn to code, you may want to installing a virtual envorinment with the porgramming language you want to learn and an IDE. 
 
-<!-->
-* When doing an introductory coding workshop, instructors choose between using the local environment, virtual environment a cloud-based environment. There are good pedagogical reasons for each choice. 
+### Jupyter Notebooks
+* If you are unfamilier with Jupter Notebooks, take a look at one of these introductory lessons.
+* [Getting Started with Jupyter Notebooks - ITHAKA Constellate](https://ithaka.github.io/tdm-notebooks/getting-started-with-jupyter.html) 
+  * Description: This lesson introduces Jupyter notebooks and Python for absolute beginners. If you are completely new to text analysis, this is the place to start.
+* [Introduction to Jupyter Notebooks - Programming Hisotiran](https://programminghistorian.org/en/lessons/jupyter-notebooks)
+
+<!--* When doing an introductory coding workshop, instructors choose between using the local environment, virtual environment a cloud-based environment. There are good pedagogical reasons for each choice. 
 [Cloud-based Versus Local-Based Web Development Education: An Experimental Study in Learning Experience.](https://files.eric.ed.gov/fulltext/EJ1144677.pdf)-->
 
 
@@ -330,18 +335,18 @@ Now that we have discussing computing, what are some of the challenges in coding
 
  
    
-## Before the Python session 
+<!-- ## Before the Python session 
 * Go to [this page](https://southernmethodistuniversity.github.io/dhri/sections/python.html#running-the-notebook-via-jupyterlab-on-m2) and see if you can do steps 1 and 2 to log on to ManeFrame II.
-    *  If not, let us know before the session. 
+    *  If not, let us know before the session. !-->
 
 
 -----
-### Attribution 
+#### Attribution 
 
 Session Leaders:  [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) & [Jonathan McMichael](http://guides.smu.edu/prf.php?account_id=104877)
 * Written by Rafia Mirza. 
 
-Our curriculum is based on the Digital Research Institute (DHRI) Curriculum by Graduate Center Digital Initiatives.   
+Our curriculum is based on the Digital Research Institute (DHRI) Curriculum by Graduate Center Digital Initiatives. 
 [This repository contains information for using and contributing to the Digital Humanities Research Institute curriculum](https://github.com/DHRI-Curriculum/guide) 
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)

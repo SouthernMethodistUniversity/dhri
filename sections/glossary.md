@@ -1,4 +1,10 @@
 
+# Text analysis glossary
+[Key terms for text analysis](https://constellate.org/docs/key-terms) - via [Constellate](https://constellate.org/)
+
+# Digital Pedagogy keywords
+[Key words for Digital Pedagogy in the Humanities](https://digitalpedagogy.mla.hcommons.org/keywords/) - via [MLA Commons](https://mla.hcommons.org/)
+
 
 # Glossary  
 

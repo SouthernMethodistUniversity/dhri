@@ -45,7 +45,6 @@
 By the end of the week, attendees will not be digital humanities experts, but they will be on their way to becoming full participants in a digital humanities community.
 
 
-
 # Logistics
 If you have any questions about this page, contact [Rafia](https://guides.smu.edu/prf.php?account_id=142826).
 

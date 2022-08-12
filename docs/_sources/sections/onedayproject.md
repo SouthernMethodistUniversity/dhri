@@ -7,23 +7,23 @@
     * [Charter handout](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/charters-handout.pdf) 
 
 * Sources
--Data
+    * Data
 
 * Processing
--analysis
+    * analysis
 
 * Plan
--charter
+    * charter
 
 * Presentation 
--deliverable 
+    * deliverable 
 
 Hackthon model: one day!
 
 ## The content for this session will be elaborated upon the day of the session. 
 
 -----
-### Attribution 
+#### Attribution 
 Session Leader: All
 
 [![Creative Commons License](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/3.0/)

@@ -170,7 +170,7 @@ What is it you are trying to do? Does a tool exist for your particular need?
 
 
 -----
-### Attribution 
+#### Attribution 
 
 Session Leaders:  [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) & [Jonathan McMichael](http://guides.smu.edu/prf.php?account_id=104877)
 * Written by Rafia Mirza. Edited by Joanna Russell Bliss.

@@ -21,7 +21,7 @@ Additional lessons:
 
 
 -----
-### Attribution 
-Session Leader:[Eric Godat](https://www.smu.edu/Provost/Data-Science-Institute/People)
+#### Attribution 
+Session Leader: [Eric Godat](https://www.smu.edu/Provost/Data-Science-Institute/People)
 * Written by Eric Godat & Robert Kalescky
 

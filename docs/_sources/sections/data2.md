@@ -534,13 +534,13 @@ Think about the digital project or research you are or will be working on. If yo
 
 # Summary: **What to do before this synchronous session**
 
-## :white_check_mark: **Read one of the following posts before this session.**
-Read one of the following instances of how the use of computational technology, machine learning, or AI has led to some unintended consequences:
-* Health care risk-prediction algorithm, a major example of tools used on more than 200 million people in the U.S., demonstrated racial bias—because it relied on a faulty metric for determining need. https://www.scientificamerican.com/article/racial-bias-found-in-a-major-health-care-risk-algorithm/ 
+ **Read one of the following posts before this session.**
+* Read one of the following instances of how the use of computational technology, machine learning, or AI has led to some unintended consequences:
+    * [Health care risk-prediction algorithm, a major example of tools used on more than 200 million people in the U.S., demonstrated racial bias—because it relied on a faulty metric for determining need.](https://www.scientificamerican.com/article/racial-bias-found-in-a-major-health-care-risk-algorithm/) 
 
-* Amazon’s recruiting engine was not rating candidates for software developer jobs and other technical posts in a gender-neutral way. - https://www.theguardian.com/technology/2018/oct/10/amazon-hiring-ai-gender-bias-recruiting-engine
+    * [Amazon’s recruiting engine was not rating candidates for software developer jobs and other technical posts in a gender-neutral way.](https://www.theguardian.com/technology/2018/oct/10/amazon-hiring-ai-gender-bias-recruiting-engine)
 
-* COMPAS (Correctional Offender Management Profiling for Alternative Sanctions),  a commercial algorithmically-driven tool use to forecast recidivism, found that black defendants were far more likely than white defendants to be incorrectly judged to be at a higher risk of recidivism. - https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm
+    * [COMPAS (Correctional Offender Management Profiling for Alternative Sanctions),  a commercial algorithmically-driven tool use to forecast recidivism, found that black defendants were far more likely than white defendants to be incorrectly judged to be at a higher risk of recidivism.](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm)
 
 Respond to the following in the thread in Slack:
 1.	What is the responsibility of developers, researchers, or those implementing these technologies?
@@ -558,7 +558,7 @@ Questions
 * * Do these raise new questions for you about the datasets you are thinking about creating?
 * * Do these raise new questions for you about the datasets you are thinking about using?-->
 -----
-### Attribution 
+#### Attribution 
 
 Session Leaders: [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) & [Jonathan McMichael](http://guides.smu.edu/prf.php?account_id=104877)
 * Written by Rafia Mirza. 
@@ -569,4 +569,4 @@ Session partially adapted from:
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-[Digital Research Institute (DRI) Curriculum](http://purl.org/dc/terms/) by [Graduate Center Digital Initiatives](https://gcdi.commons.gc.cuny.edu/) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Based on a work at <https://github.com/DHRI-Curriculum>. When sharing this material or derivative works, preserve this paragraph, changing only the title of the derivative work, or provide comparable attribution.
+[Digital Research Institute (DRI) Curriculum](http://purl.org/dc/terms/) by [Graduate Center Digital Initiatives](https://gcdi.commons.gc.cuny.edu/) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Based on a work at [Curriculum for the GC DHRI.](https://github.com/DHRI-Curriculum) When sharing this material or derivative works, preserve this paragraph, changing only the title of the derivative work, or provide comparable attribution.

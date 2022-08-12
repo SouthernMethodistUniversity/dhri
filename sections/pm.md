@@ -28,7 +28,6 @@ None of those things can happen without a plan. If you walk out those doors toda
 * Remember your goal, and account for the time, labor (expertise), and money you have available for your project. 
     * There is a maxim that a project can be 2 of the 3 following things (but not all 3): [fast, cheap or good.](https://medium.com/@devsociety_/good-cheap-fast-pick-two-and-how-ngos-can-play-the-triangle-like-a-pro-20d1380884a8)
     * You need both a long term view of your project as well as a short term view. Good project planning helps you keep these views in balance.  This will help you avoid both and irrational belief that things will just work out magical thinking) as well as increase you ability to adapt to changing circumstance without being overwhelmed by "failure." 
-    [add AT image]
 
 ## Brief project plan 
 
@@ -640,7 +639,7 @@ Find one or two grant opportunities in your subject area. Consider also looking 
 
 
 -----
-### Attribution 
+#### Attribution 
 
 Session Leader: [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) 
 * Written by Rafia Mirza. 
@@ -648,6 +647,7 @@ Session Leader: [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/)
 Based on previous work by Lisa Rhody and a WebWise workshop led by Sheila Brennan, Sharon Leon, and Lisa Rhody.
 
 [![Creative Commons License](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
 
 Our curriculum is based on the Digital Research Institute (DHRI) Curriculum by Graduate Center Digital Initiatives.   
