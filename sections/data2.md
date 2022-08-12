@@ -252,8 +252,8 @@ Further reading: [Patrick Sweeney, "Images of Faces Gleaned from Social Media in
 
 > "At another level, we can ask how our methods of organizing data, analytical interpretations, or findings as shared datasets are being used — or might be used — **to build definitional categories or to profile particular groups** in ways that could impact livelihoods or lives. Are we contributing positive or negative categorizations?" ([Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/), emphasis added)  
 
-![graphic of two words—"knowledge" and "power"—and semi-circular arrows from "power" to "knowledge," and from "knowledge" to "power," forming a circle](../images/power.png)  
-Image source: Created by author in MS Word.  
+[![graphic of two words—"knowledge" and "power"—and semi-circular arrows from "power" to "knowledge," and from "knowledge" to "power," forming a circle](../sections/images/power.png)]
+
 
 ## Reflection prompt 
 
@@ -292,9 +292,7 @@ Decisions on the categories and boundaries scholars use shape our:
 
 Categories are key to digital tools in many ways: the classification systems used by libraries and archives, the tags used on websites, the methods of categorization informing algorithms, and the spatial divisions on a map. The production and reproduction of these categories shapes how things/people/places, etc., are identified and grouped together, and also what is searchable, findable, and foregrounded.
 
-![A comic from Postcolonial #DH No. 28 by Adeline Koh: "Wikipedia and the politics of gender categorization." In the image, a bunch of white men stand to the left behind a roped off area, and a bunch of people of color and women stand to the right. A white male facing the people to the right says to them, "I'm sorry, there just isn't any more space in the main wikipedia 'American Novelist' category. Maybe you could join the 'American Woman Novelist' category?"](../images/wiki.png)  
-
-Image source: A comic by Adeline Koh from [#DHPoco: Postcolonial Digital Humanities](http://dhpoco.tumblr.com/), shared here with her permission.  
+[![A comic from Postcolonial #DH No. 28 by Adeline Koh: "Wikipedia and the politics of gender categorization." In the image, a bunch of white men stand to the left behind a roped off area, and a bunch of people of color and women stand to the right. A white male facing the people to the right says to them, "I'm sorry, there just isn't any more space in the main wikipedia 'American Novelist' category. Maybe you could join the 'American Woman Novelist' category?"](../sections/images/wiki.png)]Image source: A comic by Adeline Koh from [#DHPoco: Postcolonial Digital Humanities](http://dhpoco.tumblr.com/), shared here with her permission.  
 
 ## Bias in, bias out: Systems of oppression and inputting human bias
 
@@ -310,9 +308,7 @@ In the fields of Artificial Intelligence (AI) and Data Science, the phrase ["jun
 
 While decisions made by algorithms are often presented as free of the personal value judgments that a loan officer or judge might apply to loan candidates or in determining the length of a prisoner's sentence, for example, they can still reproduce the bias evident in the data the algorithm is trained on. Many scholars and activists have also critiqued the use of existing data on policing, arrests, and recidivism in algorithms that try to predict future criminal behavior. Because the data being input to the model is based on past policing practices that include the over-policing of communities of color and low-income people, that data is biased against those groups and thus will reproduce the existing bias in its predictions of future activities. For a deeper dive, you can read more in [this article](https://www.theverge.com/2016/2/3/10895804/st-louis-police-hunchlab-predictive-policing-marshall-project) (Maurice Chammah, 2016) that shows how predictive policing is *not* value-free and unbiased.  
 
-<img src="../images/bias.png" width=600 alt="A graphic with the words 'bias in' next to an arrow pointing into the left side of a box, and then another arrow pointing out of the box on the right side towards the words 'bias out'">
-
-Image source: Created by Kelsey Chatlosh in MS PowerPoint.  
+[!["A graphic with the words 'bias in' next to an arrow pointing into the left side of a box, and then another arrow pointing out of the box on the right side towards the words 'bias out'"](../sections/images/bias.png)] Image source: Created by Kelsey Chatlosh in MS PowerPoint.  
 
 [![tasks](https://imgs.xkcd.com/comics/machine_learning.png)](https://xkcd.com/1838/)
 

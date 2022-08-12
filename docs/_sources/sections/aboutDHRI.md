@@ -140,7 +140,7 @@ While these results are desirable, we find that students who know how to use the
     * When you are setting up your tools, questions are being asked that will shape the answers/results you get. If the set up questions don't make sense, you will have a better sense of what expertise you want to seek out to help you choose. 
              * *Note:* Skills in programming or tools only grow when you are using them to complete a project (skill building is usually project-based).
 
-* **Data & Access.**  When accessing or creating datasets; there are many considerations, including copyright, licensing, and ethics.
+* **Data Use & Re-use.**  When accessing or creating datasets; there are many considerations, including copyright, licensing, and ethics.
 
 * In the closing **Project Planning and One Day Project Lab** sections, we will work on applying what we have discussed to your specific research questions and projects. 
 
