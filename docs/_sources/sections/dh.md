@@ -132,7 +132,7 @@ Like reading a bibliography:
 
 * [Project Charter](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/charters-handout.pdf) 
 * [MOU](https://rc.library.uta.edu/uta-ir/handle/10106/25646)
-* PMP: [Project Management Office (PMO) @SMU](https://www.smu.edu/OIT/Governance)
+* PMP:[Project Management Office (PMO) @SMU](https://www.smu.edu/OIT/Governance)
 
 ***Recurring questions to keep in mind: What are the affordances of choosing this path? What are the limitations?*** 
 
