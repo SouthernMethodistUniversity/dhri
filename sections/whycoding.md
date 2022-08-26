@@ -222,7 +222,7 @@ When it comes to editing text and writing code, you can use either a text editor
   * "Why do so many book titles have commas in them?!" Face screaming in fear- A lament brought to you by someone who wrote titles into a CSV, didn't quote values, and now has regrets."-[ @quinnanya](https://twitter.com/quinnanya/status/1422238317878255642)
 
 
-# What does this all mean? Why are we telling you a ll this? 
+# What does this all mean? Why are we telling you all this? 
 
 * This is useful contextual information for you if you choose to go forward with learning programming. This is also set up for our Python session.
 
@@ -244,10 +244,10 @@ Advantages cloud-based notebooks give instructors:
 - We are choosing for the sake of pedagogy and time to skip local installation. However, if you want to learn to code, you may want to installing a virtual envorinment with the porgramming language you want to learn and an IDE. 
 
 ### Jupyter Notebooks
-* If you are unfamilier with Jupter Notebooks, take a look at one of these introductory lessons.
+* If you are unfamiliar with Jupyter Notebooks, take a look at one of these introductory lessons.
 * [Getting Started with Jupyter Notebooks - ITHAKA Constellate](https://ithaka.github.io/tdm-notebooks/getting-started-with-jupyter.html) 
   * Description: This lesson introduces Jupyter notebooks and Python for absolute beginners. If you are completely new to text analysis, this is the place to start.
-* [Introduction to Jupyter Notebooks - Programming Hisotiran](https://programminghistorian.org/en/lessons/jupyter-notebooks)
+* [Introduction to Jupyter Notebooks - Programming Historian](https://programminghistorian.org/en/lessons/jupyter-notebooks)
 
 <!--* When doing an introductory coding workshop, instructors choose between using the local environment, virtual environment a cloud-based environment. There are good pedagogical reasons for each choice. 
 [Cloud-based Versus Local-Based Web Development Education: An Experimental Study in Learning Experience.](https://files.eric.ed.gov/fulltext/EJ1144677.pdf)-->
@@ -321,7 +321,7 @@ Now that we have discussing computing, what are some of the challenges in coding
 # Should you learn coding or just use a tool?
 * The answer to this depends on your immediate and long term goals. 
 * What are you trying to do? What are the affordances or limitations of each approach? 
-* Learning programming is like learning [carpentry] (https://software-carpentry.org/about/) as it is a whole suite of skills.
+* Learning programming is like learning [carpentry](https://software-carpentry.org/about/) as it is a whole suite of skills.
   * However, if you just need a specific piece of furniture, then learning carpentry (coding) may be overkill. 
   * Instead, you may just buy something that already exists (get an already existing program/tool like Omeka or Arc-GIS). If your need to common, there may already be a tool. 
     * For example, many people want a tool to do word precessing, there are many various tools that help wth that task. 

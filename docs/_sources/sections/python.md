@@ -1,6 +1,6 @@
 # Python for Text Mining
 
-Click on the link to see each lesson or click on [![Binder](../sections/images/binder.png)] to launch the jupyter notebook in an interactive environment. 
+Click on the link to see each lesson or click on [![Binder](../sections/images/binder.png)] to launch the [Jupyter Notebook](https://southernmethodistuniversity.github.io/dhri/sections/whycoding.html#jupyter-notebooks) in an interactive environment. 
 
 ## Getting started with [Python](https://southernmethodistuniversity.github.io/dhri/sections/whycoding.html#programming-languages)
 * [Introduction to Python Programming](https://github.com/SouthernMethodistUniversity/pythonintro/blob/main/intro_to_python.ipynb)
@@ -20,7 +20,7 @@ Click on the link to see each lesson or click on [![Binder](../sections/images/b
 
 Additional lessons:
 * [Plotting and Programming in Python](https://swcarpentry.github.io/python-novice-gapminder/): This lesson is an introduction to programming in Python 3 for people with little or no previous programming experience. Via [Software Carpentry](https://software-carpentry.org/lessons/)
-* [Python lessons](https://programminghistorian.org/en/lessons/?topic=python) from [Prgramming Historian](https://programminghistorian.org/)
+* [Python lessons](https://programminghistorian.org/en/lessons/?topic=python) from [Programming Historian](https://programminghistorian.org/)
 
 
 -----
