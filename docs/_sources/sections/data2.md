@@ -44,7 +44,7 @@ Cultural heritage institutions like archives and museums can require that you as
 * See examples of usage restrictions in the [licenses of ARTstor](https://www-artstor-org.proxy.libraries.smu.edu/artstor-terms/).
 
 ## What is fair use? 
-[Fair Use as a doctrine has a long informal tradition, dating back to the 18th century, but its codification only came into effect with the Copyright Act of 1976.](https://www.smu.edu/libraries/fondren/services/copyright/fairuse)
+[Fair Use as a doctrine has a long informal tradition, dating back to the 18th century, but its codification only came into effect with the Copyright Act of 1976.](https://guides.smu.edu/copyright/fairuse)
 
 ### Measuring fair use: The four factors
 * The purpose and character of your use.
@@ -63,10 +63,9 @@ Licensing, copyright, and fair use all together in a workflow diagram for determ
 
 ## Additional readings
 [Policy, Practice, and Law](https://guide.dhcuration.org/contents/policy-practice-and-law/)
-* NEH Legal Literacies for Text Data Mining (LLTDM)
-* [#BuildingLLTDM on Twitter](https://twitter.com/hashtag/BuildingLLTDM?src=hashtag_click)
+* [NEH Legal Literacies for Text Data Mining (LLTDM)](https://buildinglltdm.org/)
 * [Workshop video playlists of all materials](https://www.youtube.com/playlist?list=PLwIeopDkK90-AjsS_aHDwf0YtFzLlL04p)
-* [Forthcoming OER](https://buildinglltdm.org/about/open-educational-resource/)
+* [OER:Building Legal Literacies for Text Data Mining](https://berkeley.pressbooks.pub/buildinglltdm/)
 
 # Institutional Access 
 * Accessing datasets from subscription library databases is governed by contract agreements that may require permissions or prohibit downlands without an additional fee. 
@@ -74,7 +73,7 @@ Licensing, copyright, and fair use all together in a workflow diagram for determ
 * If you have any questions about any other dataset, please contact your librarian. 
 
 ### Examples of data sets
-* Here is a guide that lists databases that have datasets.[Data sources: Overview guide](https://guides.smu.edu/data) 
+* Here is a guide that lists databases that have datasets.  [Data sources: Overview guide](https://guides.smu.edu/data) 
 * JSTOR
     * [JSTOR Data for Research (DfR)](https://guides.smu.edu/c.php?g=934689&p=6737385)
     * [*JSTOR DfR: creating a dataset (account creation required)*](https://www.jstor.org/dfr/about/creating-datasets)

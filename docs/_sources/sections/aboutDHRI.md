@@ -87,7 +87,7 @@ If you have any questions about this page, contact [Rafia](https://guides.smu.ed
 
 
 # Background on Digital Humanities Research Institute (DHRI)
- [For more background information on Digital Humanities Research Institute (DHRI).](https://github.com/SouthernMethodistUniversity/previous)
+ [Click here for more background information on Digital Humanities Research Institute (DHRI) at SMU.](https://github.com/SouthernMethodistUniversity/previous)
  This section goes over why the Institute is structured the way it is. 
  
 ## DHRI philosophy 
@@ -100,7 +100,7 @@ While these results are desirable, we find that students who know how to use the
 "Three structural elements are important for an effective DRI session: scoping, scaffolding, and purpose. Scoping is the art of choosing what—and especially what not—to include in a session. Scaffolding is the process of building later skill development on prior skill development. Purpose provides an answer to the participant who asks, "Why should I care about this?" - [DHRI Curriculum style guide](https://github.com/DHRI-Curriculum/guide/blob/master/sections/style-guide.md)
 
 ### Pedagogical approach
-"The DHRI curriculum places great emphasis on foundational technical skills, and roughly one-third of all sessions at the Institute could be described as foundational. ... The difference between an instrumental approach and a foundational approach is often not immediately appreciated by participants, but over time they begin to change their minds. Although an instrumental approach satisfies a researcher’s most immediate need, a foundational approach takes into consideration the long term impact that learning core skills will have for the future professional and research needs of the scholar." [DHRI: Notes toward our pedagogical approach by Lisa Rhody, June 17, 2019](https://www.lisarhody.com/dhri-notes-toward-our-pedagogical-approach/)
+"The DHRI curriculum places great emphasis on foundational technical skills, and roughly one-third of all sessions at the Institute could be described as foundational. ... The difference between an instrumental approach and a foundational approach is often not immediately appreciated by participants, but over time they begin to change their minds. Although an instrumental approach satisfies a researcher’s most immediate need, a foundational approach takes into consideration the long term impact that learning core skills will have for the future professional and research needs of the scholar." [DHRI: Notes toward our pedagogical approach by Lisa Rhody, June 17, 2019](https://web.archive.org/web/20210619032241/https://www.lisarhody.com/dhri-notes-toward-our-pedagogical-approach/)
 
 ### What affordances a foundational approach gives us
 * There is a lot that personal computers allow us to take for granted when we do our work; however, knowing fundamentals can help humanities scholars become more confident users and critics of digital technologies. 
@@ -136,7 +136,7 @@ While these results are desirable, we find that students who know how to use the
 * **Python** is one of the common languages used in DH, used for a wide range of tasks, including collecting and analyzing data in a variety of formats. We will go through how to get started in Python, using libraries and how you can continue to grow your skills after DHRI. 
 
 * **Tools.** Understanding what data you need, and what you want to do with that, allows you to determine if you need a specific script/library package, or if you can use a DH tool for your specific question. 
-    * When a tool or program (such as even [Zotero](https://www.zotero.org/about/) or [Voyant](https://voyant-tools.org/docs/#!/guide/about)) asks you to *set up an environment* or choose a *specific setting*, **you are making choices that will shape your results.** 
+    * When a tool or program (such as [Zotero](https://www.zotero.org/about/) or [Voyant](https://voyant-tools.org/docs/#!/guide/about)) asks you to *set up an environment* or choose a *specific setting*, **you are making choices that will shape your results.** 
     * When you are setting up your tools, questions are being asked that will shape the answers/results you get. If the set up questions don't make sense, you will have a better sense of what expertise you want to seek out to help you choose. 
              * *Note:* Skills in programming or tools only grow when you are using them to complete a project (skill building is usually project-based).
 

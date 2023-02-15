@@ -54,7 +54,7 @@ In this session, attendees should come to understand how to define DH (in a way 
 ## What isn't DH?
 
 *...DH is defined by communities of practice, whether those are of shared methods, research questions, values, or something else......If all this can be DH, maybe we want to say, fine, what isn't DH? I find that question difficult to answer concisely or usefully? But I'll try to give an example of a thing that can both very much "be" DH, or can be a non-DH thing—with explicit emphasis that it's up to the practitioner(s) in question to identify whether they, their project, and their methods "are DH".*
-* [A Digital Humanities What, Why, & How by  Dr. Amanda Visconti](https://www.hastac.org/blogs/amanda-visconti/2016/07/25/digital-humanities-what-why-how-dlf-eresearch-network-talk#header-c20) 
+* [A Digital Humanities What, Why, & How by  Dr. Amanda Visconti](http://literaturegeek.com/2016/07/21/dlf-digital-humanities-what-why-how) 
 
 ### What is humanities thinking?
 * How would you define the humanities? 
@@ -192,10 +192,8 @@ Like reading a bibliography:
 Session Leaders: [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) & [Jonathan McMichael](http://guides.smu.edu/prf.php?account_id=104877)
 * Written by Rafia Mirza. 
 
-Our curriculum is based on the [Digital Research Institute (DHRI) Curriculum](https://github.com/DHRI-Curriculum) by [Graduate Center Digital Initiatives](https://gcdi.commons.gc.cuny.edu/). 
+Our curriculum is based on the [Digital Research Institute (DHRI) Curriculum](https://github.com/DHRI-Curriculum) by [Graduate Center Digital Initiatives](https://gcdi.commons.gc.cuny.edu/). Their curriculum is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). When sharing this material or derivative works, preserve this paragraph, changing only the title of the derivative work, or provide comparable attribution.
+
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-
-
-[This repository contains information for using and contributing to the Digital Humanities Research Institute curriculum](https://github.com/DHRI-Curriculum/guide). Their curriculum is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). When sharing this material or derivative works, preserve this paragraph, changing only the title of the derivative work, or provide comparable attribution.

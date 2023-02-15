@@ -34,7 +34,7 @@ Understanding computing: This session is to familiarize you wth important founda
 * The applications on your device can access the resources in your machine. Each local environment becomes different with use. 
 * The [kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system)) connects the application software to the hardware of a computer.
 
-[![kernal](../sections/images/kernel.png)](https://en.wikipedia.org/wiki/File:Kernel_Layout.svg)
+[![kernel](../sections/images/kernel.png)](https://en.wikipedia.org/wiki/File:Kernel_Layout.svg)
 
 * Local installations give you more control, and more power, but the pedagogical tradeoff is that it is more difficult to manage and configure during class. Installation is dependent on type of device. 
 
@@ -73,7 +73,7 @@ The advantages of containers for for [classroom projects](https://digitalfellows
 ## The "Cloud"
 - ["Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user."
 
-* CLouse based systems may be expensive, it may be resources intensive, so you may choose the path of [Minimal Computing](https://go-dh.github.io/mincomp/about/): 
+* Cloud based systems may be expensive, it may be resources intensive, so you may choose the path of [Minimal Computing](https://go-dh.github.io/mincomp/about/): 
 * "We use “minimal computing” to refer to computing done under some set of significant constraints of hardware, software, education, network capacity, power, or other factors. Minimal computing includes both the maintenance, refurbishing, and use of machines to do DH work out of necessity along with the use of new streamlined computing hardware like the Raspberry Pi or the Arduino micro controller to do DH work by choice. This dichotomy of choice vs. necessity focuses attention on computing that is decidedly not high-performance."
  * Using the resource tha matches your needs can help you minimize costs and environmental impact.
 
@@ -132,7 +132,7 @@ Another way to make your computer do things: through the command line. Instead o
 * You don't need to be become fluent if it's not the focus of your interest, but it is helpful to have reading fluency, like any other language that is an important part of your research. Also, like any other language, use will help you retain and gain knowledge. 
 
 ## Learning some coding will help you see what is technically feasible  
-* "I started to notice that the way people talk about technology is out of sync with what digital technology actually can do. Ultimately, everything we do with computers comes down to math, and there are fundamental limits to what we can (and should) do with it." [Hello Reader](https://mitpress.mit.edu/read/hello-reader)
+* "I started to notice that the way people talk about technology is out of sync with what digital technology actually can do. Ultimately, everything we do with computers comes down to math, and there are fundamental limits to what we can (and should) do with it." [Hello Reader](https://direct.mit.edu/books/book/3671/chapter-abstract/122354/Hello-Reader)
 
 ## What is coding? Is it the same as programming?
 "Put simply, programming is giving a set of instructions to a computer to execute. ...*While sometimes used interchangeably, programming and coding actually have different definitions."*
@@ -219,7 +219,7 @@ When it comes to editing text and writing code, you can use either a text editor
 * "TEI tags describe the characteristics of a given text. For example, TEI tags may be used to indicate paragraph and line breaks, pagination, and major divisions of a text such as volumes, chapters, and sections. In addition, tags may be placed around typographical characteristics such as text that is underlined, italicized, superscripted, etc., and around text that needs special emphasis such as foreign words, misspellings, proper names, etc." [UNL Center for Digital Research in the Humanities](https://cdrh.unl.edu/articles/basicguide/TEI) 
 * Example: ["In transcribing a manuscript, it might be desirable to distinguish among three distinct forms of the letter r."](https://quod.lib.umich.edu/cgi/t/tei/tei-idx?type=HTML&rgn=DIV1&byte=281938)
 * [Projects that use TEI.](https://tei-c.org/Activities/Projects)
-  * "Why do so many book titles have commas in them?!" Face screaming in fear- A lament brought to you by someone who wrote titles into a CSV, didn't quote values, and now has regrets."-[ @quinnanya](https://twitter.com/quinnanya/status/1422238317878255642)
+  * "Why do so many book titles have commas in them?!" Face screaming in fear- A lament brought to you by someone who wrote titles into a CSV, didn't quote values, and now has regrets."-[ @quinnanya] <!--(https://twitter.com/quinnanya/status/1422238317878255642)!-->
 
 
 # What does this all mean? Why are we telling you all this? 
@@ -346,10 +346,9 @@ Now that we have discussing computing, what are some of the challenges in coding
 Session Leaders:  [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) & [Jonathan McMichael](http://guides.smu.edu/prf.php?account_id=104877)
 * Written by Rafia Mirza. 
 
-Our curriculum is based on the Digital Research Institute (DHRI) Curriculum by Graduate Center Digital Initiatives. 
-[This repository contains information for using and contributing to the Digital Humanities Research Institute curriculum](https://github.com/DHRI-Curriculum/guide) 
+Our curriculum is based on the [Digital Research Institute (DRI) Curriculum](http://purl.org/dc/terms/) by [Graduate Center Digital Initiatives.](https://gcdi.commons.gc.cuny.edu/) It is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). When sharing this material or derivative works, preserve this paragraph, changing only the title of the derivative work, or provide comparable attribution.
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-[Digital Research Institute (DRI) Curriculum](http://purl.org/dc/terms/) by [Graduate Center Digital Initiatives](https://gcdi.commons.gc.cuny.edu/) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Based on a work at <https://github.com/DHRI-Curriculum>. When sharing this material or derivative works, preserve this paragraph, changing only the title of the derivative work, or provide comparable attribution.
+
 

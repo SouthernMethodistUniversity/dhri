@@ -70,7 +70,7 @@ We have been discussing different aspects and stages of digital scholarship proj
 * Why is it important to distinguish your project *needs* from the functions of a tool you are trying to use? In other words, why is it better to frame your question around what you are *trying to do* instead of *what can a tool do*?  
 * "Navigating technical documentation, and instructions not written with your particular perspective in mind, are skills you develop over time."   
     * ["It Doesn't Work:" Failure and DH Tools *(video)*](https://univr.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2b012f49-5821-411f-bbb3-abf800f3eb54)
-    * ["It Doesn't Work:" Failure and DH Tools *(text)*](http://quinndombrowski.com/?q=blog/2020/07/21/it-doesnt-work-failure-and-dh-tools)     
+    * ["It Doesn't Work:" Failure and DH Tools *(text)*](https://quinndombrowski.com/blog/2020/07/21/it-doesnt-work-failure-and-dh-tools/)     
 
 # How to choose a tool
 ## How to find a tool       
@@ -174,10 +174,9 @@ What is it you are trying to do? Does a tool exist for your particular need?
 
 Session Leaders:  [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) & [Jonathan McMichael](http://guides.smu.edu/prf.php?account_id=104877)
 * Written by Rafia Mirza. Edited by Joanna Russell Bliss.
-* Our curriculum is based on the Digital Research Institute (DHRI) Curriculum by Graduate Center Digital Initiatives.   
-[This repository contains information for using and contributing to the Digital Humanities Research Institute curriculum](https://github.com/DHRI-Curriculum/guide) 
+* Our curriculum is based on the [Digital Research Institute (DRI) Curriculum](http://purl.org/dc/terms/)by [Graduate Center Digital Initiatives.](https://gcdi.commons.gc.cuny.edu/) Licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). When sharing this material or derivative works, preserve this paragraph, changing only the title of the derivative work, or provide comparable attribution.
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-[Digital Research Institute (DRI) Curriculum](http://purl.org/dc/terms/) by [Graduate Center Digital Initiatives](https://gcdi.commons.gc.cuny.edu/) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Based on a work at <https://github.com/DHRI-Curriculum>. When sharing this material or derivative works, preserve this paragraph, changing only the title of the derivative work, or provide comparable attribution.
+
 

@@ -1,7 +1,8 @@
 
+# What is the data life cycle?
+
 ## Before our first session, we have 1 activity that we want you to do. 
 
-# What is the data life cycle?
 * Read [8 STEPS IN THE DATA LIFE CYCLE](https://online.hbs.edu/blog/post/data-life-cycle)
 * What do you think about this framework? Do you find it helpful? 
  * Does this framework change how you think about your data? 
@@ -268,7 +269,7 @@ What are the potentials of using data to solve problems or to advance research? 
 * As government accountability/transparency (Hoffman, 2012)
 * BUT depends on volunteer labor, often addressed to governments and NGOs (Hooker, 2018) and belongs to the “data economy,” rather than being an act of critical transparency (Birchall, 2015)
  
-“The data sets that make up Big Data are always creations of human design, and thus are always implicated in social relations and power dynamics (Andrejevic, 2014; boyd and Crawford, 2012; Crawford et al., 2014; Van Dijk, 2014). In these critical analyses, the ‘real’ value of (big) data lies not so much in its incarnation of a new scientiﬁc method or paradigm; rather, its value is framed in terms of political power, insofar as it enhances various forms of government surveillance (Bauman and Lyon, 2013), and in terms of monetary resource, as it beneﬁts corporate proﬁt (Fuchs, 2010).” (Sharon & Zandbergen, 2017)
+“The data sets that make up Big Data are always creations of human design, and thus are always implicated in social relations and power dynamics (Andrejevic, 2014; boyd and Crawford, 2012; Crawford et al., 2014; Van Dijk, 2014). In these critical analyses, the ‘real’ value of (big) data lies not so much in its incarnation of a new scientific method or paradigm; rather, its value is framed in terms of political power, insofar as it enhances various forms of government surveillance (Bauman and Lyon, 2013), and in terms of monetary resource, as it beneﬁts corporate proﬁt (Fuchs, 2010).” (Sharon & Zandbergen, 2017)
 
 # Data as extraction
 * [“Data is the new oil."](https://towardsdatascience.com/is-data-really-the-new-oil-in-the-21st-century-17d014811b88)
@@ -321,12 +322,12 @@ Zook, Matthew et al. “Ten simple rules for responsible big data research.” P
 * Timnit Gebru and Google 
     * [We read the paper that forced Timnit Gebru out of Google. Here’s what it says.](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/)
     * "... a system called GPT-3. It had ingested more training data than BERT and could generate impressively fluid text in genres spanning sonnets, jokes, and computer code. Some investors and entrepreneurs predicted that automated writing would reinvent marketing, journalism, and art.These new systems could also become fluent in unsavory language patterns, coursing with sexism, racism, or the tropes of ISIS propaganda. Training them required huge collections of text—BERT used 3.3 billion words and GPT-3 almost half a trillion—which engineers slurped from the web, the most readily available source with the necessary scale. *But the data sets were so large that sanitizing them, or even knowing what they contained, was too daunting a task.*(italics added) It was an extreme example of the problem Gebru had warned against with her [Datasheets for Datasets](https://arxiv.org/abs/1803.09010) project. - [What Really Happened When Google Ousted Timnit Gebru.](https://www.wired.com/story/google-timnit-gebru-ai-what-really-happened/)
-* Disciplines that may be of interest:[STS](https://en.wikipedia.org/wiki/Science_and_technology_studies), [ethical AI](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence)  
+* Disciplines that may be of interest: [STS](https://en.wikipedia.org/wiki/Science_and_technology_studies), [ethical AI](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence)  
 
 
 #  About your data project 
 * What topic(s) do you want to focus on?
-* What kind(s) of [data](https://southernmethodistuniversity.github.io/dhri/sections/data2.html)will you need?
+* What kind(s) of [data](https://southernmethodistuniversity.github.io/dhri/sections/data2.html) will you need?
 * Do you already have a data set identified for use? 
     * Here is is a link to our [Datasets and Data Repositories guide](https://guides.smu.edu/data)
 * [To download the Lesson for Big Data handout as a PDF: click on this link, then click on Download button on top right of page.](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/bigdatalessons.pdf)
