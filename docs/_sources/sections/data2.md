@@ -54,7 +54,6 @@ Cultural heritage institutions like archives and museums can require that you as
 
 ## Copyright permissions workflow 
 Licensing, copyright, and fair use all together in a workflow diagram for determining when to seek permission to use a copyrighted work.
-![tasks](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/images/CPW.jpg)
 
 [![Copyright Workflow](../sections/images/CPW.jpg)]
  
@@ -152,8 +151,8 @@ More case studies:
 * [Citations for this now pulled dataset "80 Million Tiny Images" in Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C44&q=%2280+Million+Tiny+Images%22&btnG=). 
     * Even though this data set was 'pulled,' look how recently it has been cited. 
 * We also touched on this during our data session
-    * [Data and Power](https://github.com/SouthernMethodistUniversity/data/blob/master/sections/power.md)
-    * [Big Data](https://github.com/SouthernMethodistUniversity/data/blob/master/sections/bigdata.md)
+    * [Data and Power](https://southernmethodistuniversity.github.io/dhri/sections/data1.html#data-and-power)
+    * [Big Data](https://southernmethodistuniversity.github.io/dhri/sections/data1.html#lessons-for-big-data)
 
 
 ## Reflection prompt
@@ -332,7 +331,9 @@ A question to consider:
 As scholars, we have a responsibility to think critically about how we do or do not reproduce existing biases in the canons we reference, the data we use, and the conclusions we reach. Some projects that have tried to produce new, less-biased representations include: 
 
 - [The #StandingRockSyllabus](https://nycstandswithstandingrock.wordpress.com/standingrocksyllabus/) 
-- [#BLM syllabus](http://www.blacklivesmattersyllabus.com/)
+- [#Charlestonsyllabus](https://www.aaihs.org/resources/charlestonsyllabus/)
+- [#TulsaSyllabus](https://tulsasyllabus.web.unc.edu/)
+- [#BuffaloSyllabus](https://buffalosyllabus.com/)
 - [Ferguson syllabus](https://sociologistsforjustice.org/ferguson-syllabus/)
 - [The Zine Librarians Code of Ethics](http://zinelibraries.info/code-of-ethics/)  
 - [Native-Land.ca (mapping project)](https://native-land.ca/)  
@@ -380,7 +381,8 @@ As Annette Markham reminds us, as discussed earlier in this session:
 
 > "an impact approach is targeted toward the possible or probable impact, rather than the prevention of impact in the first place. It acknowledges that we change the world as we conduct even the smallest of scientific studies, and therefore, we must take some personal responsibility for our methods." ([Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/))  
 
-![close-up photo of a drop of water falling into a pool of water, creating a series of concentric ripples](../images/ripple.jpg)  
+
+[![close-up photo of a drop of water falling into a pool of water, creating a series of concentric ripples](../sections/images/ripple.jpg)](https://commons.wikimedia.org/wiki/File:Ripple_effect_on_water.jp)
 Image source: [Sergiu Bacioiu from Romania, "Ripple effect on water," Wikimedia, Creative Commons Attribution 2.0 Generic license](https://commons.wikimedia.org/wiki/File:Ripple_effect_on_water.jpg)  
 
 Further readings:  
@@ -414,7 +416,7 @@ Accessing social media data can be a complicated mix of licensing, permission an
 
 * "It was an episode that frustrated employees who wanted to reduce racial bias on the platform but one that they said did not surprise them. Facebook management has repeatedly ignored and suppressed internal research showing racial bias in the way that the platform removes content, according to eight current and former employees, all of whom requested anonymity to discuss internal Facebook business." [Facebook ignored racial bias research, employees say.](https://www.nbcnews.com/tech/tech-news/facebook-management-ignored-internal-research-showing-racial-bias-current-former-n1234746)
 
-We also touched on this in the Data session [Ethical issues around large data sets.](https://github.com/SouthernMethodistUniversity/data/blob/master/sections/bigdata.md#current-events-ethical-issues-around-large-data-sets)
+We also touched on this in the Data session [Ethical issues around large data sets.](https://southernmethodistuniversity.github.io/dhri/sections/data1.html#ethical-issues-around-large-data-sets)
 
 # Closed systems and Black Boxes 
 When corporations, journalists, governmental entities, NGOs, non-profits, researchers keep their data sets and processes hidden, what issues can this raise around ethics and access? 
@@ -422,7 +424,7 @@ When corporations, journalists, governmental entities, NGOs, non-profits, resear
 * How important is it to consult with disciplinary experts? Community members? 
 * How does what your community incentivize encourage certain behaviors?
 
-We discussed some of this in our [Intro session](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/how.md).
+We discussed some of this in our [Intro session](https://southernmethodistuniversity.github.io/dhri/sections/dh.html#how-did-they-do-that-general).
 * "This past April, Tech Insider talked to experts in the fields of clinical pathology and laboratory medicine, microfluidics, and biomedical engineering to try to piece together an answer [on how the Theranos Edision machine was supposed to work]. No one could figure it out conclusively, because as Dr. David Koch, president of the American Association for Clinical Chemistry and a professor at Emory University, said then, "It may be wonderful [or] it may bomb, but I really can't be more definitive because there's nothing to really look at, to read, to react to."[What we know about how Theranos' 'revolutionary' technology works](https://www.businessinsider.com/how-theranos-revolutionary-technology-works-2015-10) & [What Exactly Was The Theranos Edison Machine Supposed To Do?](https://www.refinery29.com/en-us/2019/03/224904/theranos-edison-machine-blood-test-technology-explained)
 
 
@@ -436,7 +438,8 @@ We discussed some of this in our [Intro session](https://github.com/SouthernMeth
 "Ethics is literally about the world of unintended consequences." [How Twitter hired tech's biggest critics to build ethical AI](https://www.protocol.com/workplace/twitter-ethical-ai-meta)
 
 ### Red teams 
-"Rumman also recommends several organizational mechanisms to support better governance approaches to AI ethics: most importantly, being aware of who has the power to make & influence decisions over digital projects. Interdisciplinary approaches are critical to success, but often difficult to enact in practice. She points to the emergent mechanisms within cybersecurity as a particular success: using ‘red teams’ with many different specialisms to identify and address problems. Second, having a process for critical conversations to take place is key. This can be in the format of an ombudsman office whose function is to independently represent the interests of various stakeholders, a review board, or an open-door/town hall policy. But Rumman says for real change to work, a no-blame culture is essential: consider medical ethics review boards, or flight safety, where the focus is on limiting future damage through open and transparent conversations about what went wrong, rather than on identifying & punishing bad actors." - [Critical Literacy for AI Governance Modeling: Growing Digital Ethics in Practice](https://leadingedgeforum.com/insights/critical-literacy-for-ai-governance-modeling-growing-digital-ethics-in-practice/)
+"Rumman also recommends several organizational mechanisms to support better governance approaches to AI ethics: most importantly, being aware of who has the power to make & influence decisions over digital projects. Interdisciplinary approaches are critical to success, but often difficult to enact in practice. She points to the emergent mechanisms within cybersecurity as a particular success: using ‘red teams’ with many different specialisms to identify and address problems. Second, having a process for critical conversations to take place is key. This can be in the format of an ombudsman office whose function is to independently represent the interests of various stakeholders, a review board, or an open-door/town hall policy. But Rumman says for real change to work, a no-blame culture is essential: consider medical ethics review boards, or flight safety, where the focus is on limiting future damage through open and transparent conversations about what went wrong, rather than on identifying & punishing bad actors." - [Critical Literacy for AI Governance Modeling: Growing Digital Ethics in Practice](https://web.archive.org/web/20201221145810/https://leadingedgeforum.com/insights/critical-literacy-for-ai-governance-modeling-growing-digital-ethics-in-practice/)
+- [Growing digital ethics in practice: an interactive roadmap](https://leadingedgeforum.turtl.co/story/growing-digital-ethics-in-practice-an-interactive-roadmap/page/1_)
 
 ### Retraction 
 "When the paper’s authors finally called for its retraction, they admitted that their study couldn’t make any claims about race and fatal shootings at the hands of police. “The mistake we made was drawing inferences about the broader population of civilians who interact with police rather than restricting our conclusions to the population of civilians who were fatally shot by the police,” they wrote." - [Tech Firms Hire 'Red Teams.' Scientists Should, Too](https://www.wired.com/story/tech-firms-hire-red-teams-scientists-should-too/)

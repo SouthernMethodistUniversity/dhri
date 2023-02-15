@@ -49,8 +49,7 @@ We have been discussing different aspects and stages of digital scholarship proj
         * How might it be limited? 
         * How might we expand past those limitations? 
 
-* An important step in acculturation to DH methodologies is learning how to translate you goals into the language and categories sued by tools and training documentation. In this example from Programming Historian, you can see how lessons fall into broad phases or categories.While these are nto a 1-1 match to language we used in previous session, the frameworks are consistent. (sustain is similar to preserve, acquire is similar to collect)
-[![tasks](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/images/phlessons.png)](https://programminghistorian.org/posts/full-text-search)     
+* An important step in acculturation to DH methodologies is learning how to translate your goals into the language and categories used by tools and training documentation. In this example from Programming Historian, you can see how lessons fall into broad phases or categories. While these are not a 1-1 match to language we used in previous sessions, the frameworks are consistent (*sustain* is similar to *preserve*, *acquire* is similar to *collect* and so on).
 
 [![phlessons](../sections/images/phlessons.png)](https://programminghistorian.org/posts/full-text-search)     
 

@@ -87,14 +87,14 @@ If applicable, describe how this project will live beyond the grant period. Will
 ## Lessons Learned: Viral Texts
 "I have learned a good deal working on this project about iterative, data-driven research, which had I fully understood earlier might have led me to plan its outputs very differently. My edition-building perspective was not ready for the reality of CS research at all." [Talking about Viral Texts Failures](https://ryancordell.org/research/VT-database-fail/)
 
-[Now take a look at the Brief Charter handout](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/charters-handout.pdff) and respond to the following in the thread in Slack:
+[Now take a look at the Brief Charter handout](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/charters-handout.pdf) and respond to the following in the thread in Slack:
 1.	How might the use of this charter have affected their process?
 2.	If a charter cannot guarantee success, why use it? 
 3.	How is this similar or different than other project planning approaches you have used?
  
 ## "Failure" as learning
 
-"I'm pretty comfortable with failure because the path to learning runs through failure. It's not something that we think about a lot in the humanities, though in the digital humanities we're getting to a point where I think this is is becoming more obvious. In other disciplines it's much more evident that failure and learning are so closely tied." - [Towards a Taxonomy of Failure](http://quinndombrowski.com/?q=blog/2019/01/30/towards-taxonomy-failure)
+"I'm pretty comfortable with failure because the path to learning runs through failure. It's not something that we think about a lot in the humanities, though in the digital humanities we're getting to a point where I think this is is becoming more obvious. In other disciplines it's much more evident that failure and learning are so closely tied." - [Towards a Taxonomy of Failure](https://quinndombrowski.com/blog/2020/07/21/it-doesnt-work-failure-and-dh-tools/)
 
 Respond to the following in the thread in Slack:
 1.	Do you have an example where you experienced the types of failure described here? 
@@ -248,7 +248,6 @@ Below are **suggestions** for finding similar projects and initiatives in and ou
 Some examples of places to look include: 
 
 * DH
-    * [Digital Humanities Now](http://digitalhumanitiesnow.org/)
     * [DHQ](http://digitalhumanities.org/dhq/)
     * [List of additional DH journals](https://digitalhumanities.berkeley.edu/resources/digital-humanities-journals)
     * [DiRT registry of digital humanities tools (Note: Last updated 2015)](https://digitalhumanities.berkeley.edu/resources/digital-research-tools-dirt-directory) 

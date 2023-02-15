@@ -88,7 +88,7 @@ https://visualisingadvocacy.org
 
 * [Literate Computing: The relationship between computer-readable code and human-readable text gained visibility within computer science in the 1970’s, when Donald Knuth proposed the “literate programming” paradigm.](https://programminghistorian.org/en/lessons/jupyter-notebooks#literate-computing) 
 
-ased on [DHRI-CUNY-Curriculum Session on ethics for  for digital projects and research](https://github.com/DHRI-Curriculum/ethics).
+- Based on [DHRI-CUNY-Curriculum Session on ethics for  for digital projects and research](https://github.com/DHRI-Curriculum/ethics).
 
 *Note that these resources are just a sampling of readings and projects that may be useful for thinking about or demonstrative of critically ethical approaches to digital projects and research, but there are many more resources out there! Also note that there is much overlap between the sub-topics below.*  
 
