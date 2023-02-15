@@ -3,9 +3,9 @@
 ## Before our first session, we have two activities that we want you to do. 
 
 ## What makes up Digital (or computational) + Humanities?
- * Go to [this website](https://whatisdigitalhumanities.com/) above and refresh the page a few times to get a new definition. 
+ * Go to [this website](https://whatisdigitalhumanities.com/) and refresh the page a few times to get a new definition. 
 * What do you think about these definitions? Did you find any of them helpful? 
- * After considering some of these, what is your working definition of DH. 
+ * After considering some of these, what is your working definition of DH? 
  * Take notes on your responses to this and we will discuss this in the session.
 
 # How did they do that? (general)
@@ -130,9 +130,9 @@ Like reading a bibliography:
 ## Group work & project planning
 ### Project planning models 
 
-* [Project Charter](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/charters-handout.pdf) 
+* [Project Charter](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/charters-handout.pdf)
 * [MOU](https://rc.library.uta.edu/uta-ir/handle/10106/25646)
-* PMP:[Project Management Office (PMO) @SMU](https://www.smu.edu/OIT/Governance)
+* PMP: [Project Management Office (PMO) @SMU](https://www.smu.edu/OIT/Governance)
 
 ***Recurring questions to keep in mind: What are the affordances of choosing this path? What are the limitations?*** 
 
@@ -149,7 +149,7 @@ Like reading a bibliography:
 ### Torn Apart/Separados, a project which has two phases.
 * [Torn Apart/Separados, vol. 1](http://xpmethod.columbia.edu/torn-apart/volume/1/) 
 * [Torn Apart/Separados, Vol. 2](http://xpmethod.columbia.edu/torn-apart/volume/2/)
-     * [Editors’ Choice: Torn Apart/Separados](https://digitalhumanitiesnow.org/2018/06/editors-choice-torn-apart-separados/)
+     * [Editors’ Choice: Torn Apart/Separados](https://web.archive.org/web/20220517203709/https://digitalhumanitiesnow.org/2018/06/editors-choice-torn-apart-separados/)
 
   **OR** 
 

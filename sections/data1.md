@@ -79,7 +79,7 @@ List of forms adapted from: [Georgia Tech](https://libguides.gatech.edu/)
 
 
 ## Raw data 
-* Raw data is yet to be processed, meaning it has yet to be manipulated by a human or computer. Received or collected data could be in any number of formats, locations, etc.. It could be in any of the forms listed [further down](https://southernmethodistuniversity.github.io/dhri/sections/data1.html#forms-of-data).
+* Raw data is yet to be processed, meaning it has yet to be manipulated by a human or computer. Received or collected data could be in any number of formats, locations, etc.. It could be in any of the forms listed [here](https://southernmethodistuniversity.github.io/dhri/sections/data1.html#forms-of-data).
 
 * But "raw data" is a relative term, inasmuch as when one person finishes processing data and presents it as a finished product, another person may take that product and work on it further, and for them that data is "raw data". 
 
@@ -313,7 +313,7 @@ Zook, Matthew et al. “Ten simple rules for responsible big data research.” P
 ## Checklists, principles, examples
 * Data Ethics Decision Aid: [DEDA](https://dataschool.nl/en/deda/)
 * Data Harm Record: [DHR](https://datajusticelab.org/data-harm-record/)
-* Data Science Ethics Checklist & Examples of Data Harms :[Deon](https://deon.drivendata.org/)
+* Data Science Ethics Checklist & Examples of Data Harms:[Deon](https://deon.drivendata.org/)
 * “Feminist Data Visualization” (D’Ignazio & Klein, 2018): [FDV](https://visionscarto.net/feminist-data-visualization)
 
 ## Ethical issues around large data sets.

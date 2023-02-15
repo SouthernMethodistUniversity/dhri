@@ -50,7 +50,9 @@ We have been discussing different aspects and stages of digital scholarship proj
         * How might we expand past those limitations? 
 
 * An important step in acculturation to DH methodologies is learning how to translate you goals into the language and categories sued by tools and training documentation. In this example from Programming Historian, you can see how lessons fall into broad phases or categories.While these are nto a 1-1 match to language we used in previous session, the frameworks are consistent. (sustain is similar to preserve, acquire is similar to collect)
-[![tasks](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/images/phlessons.PNG)](https://programminghistorian.org/posts/full-text-search)       
+[![tasks](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/images/phlessons.png)](https://programminghistorian.org/posts/full-text-search)     
+
+[![phlessons](../sections/images/phlessons.png)](https://programminghistorian.org/posts/full-text-search)     
 
 
 # Being a newcomer to digital scholarship       
@@ -153,14 +155,14 @@ Watch the video *or* read the text of this talk *"It Doesn't Work:" Failure and 
 * "But let’s first talk about DH tools, and the ways they "don’t work." One thing I’ve learned, over my years of doing direct end-user support, is that — what it is that “doesn’t work” often depends on your perspective." 
 * "Navigating technical documentation, and instructions not written with your particular perspective in mind, are skills you develop over time."  
     * ["It Doesn't Work:" Failure and DH Tools *(video)*](https://univr.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2b012f49-5821-411f-bbb3-abf800f3eb54)
-    * ["It Doesn't Work:" Failure and DH Tools *(text)*](http://quinndombrowski.com/?q=blog/2020/07/21/it-doesnt-work-failure-and-dh-tools)
+    * ["It Doesn't Work:" Failure and DH Tools *(text)*](https://quinndombrowski.com/blog/2020/07/21/it-doesnt-work-failure-and-dh-tools/
 
 ###  We will be using the frameworks from Nowviskie & Dombrowski to frame our synchronous discussion on how to search for tools.
 
 ## What are the types of tools available?
 What is it you are trying to do? Does a tool exist for your particular need?  
 * **Activity:** If we look at a website for a particular tool, what assumptions did the tools' designers make about what users are trying to do?  
-    * [Choose from this list of tools from Duke.](https://digitalhumanities.duke.edu/tools) 
+    * [Choose from this list of tools.](http://digitalhumanities.unc.edu/resources/tools/) 
     * Select one of the tools to consider its possibilities.
         * What does it do?  
         * How does it do it? 

@@ -73,9 +73,8 @@ The advantages of containers for for [classroom projects](https://digitalfellows
 ## The "Cloud"
 - ["Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user."
 
-* Cloud based systems may be expensive, it may be resources intensive, so you may choose the path of [Minimal Computing](https://go-dh.github.io/mincomp/about/): 
-* "We use “minimal computing” to refer to computing done under some set of significant constraints of hardware, software, education, network capacity, power, or other factors. Minimal computing includes both the maintenance, refurbishing, and use of machines to do DH work out of necessity along with the use of new streamlined computing hardware like the Raspberry Pi or the Arduino micro controller to do DH work by choice. This dichotomy of choice vs. necessity focuses attention on computing that is decidedly not high-performance."
- * Using the resource tha matches your needs can help you minimize costs and environmental impact.
+* Cloud based systems may be expensive, it may be resources intensive, so you may choose the path of [Minimal Computing](https://go-dh.github.io/mincomp/about/): "We use “minimal computing” to refer to computing done under some set of significant constraints of hardware, software, education, network capacity, power, or other factors. Minimal computing includes both the maintenance, refurbishing, and use of machines to do DH work out of necessity along with the use of new streamlined computing hardware like the Raspberry Pi or the Arduino micro controller to do DH work by choice. This dichotomy of choice vs. necessity focuses attention on computing that is decidedly not high-performance."
+* Using the resource tha matches your needs can help you minimize costs and environmental impact.
 
 # How do you interact with your computer?
 * Most of us are used to a graphical user interface [GUI](https://en.wikipedia.org/wiki/Graphical_user_interface) but the command line allows you more control.
@@ -92,7 +91,7 @@ And yes, "the command line" is also laden with masculine and military metaphors,
 
 * As Wendy Hui Kyong Chun discusses in ["On Software, or the Persistence of Visual Knowledge," (2004)](https://direct.mit.edu/grey/article/doi/10.1162/1526381043320741/10837/On-Software-or-the-Persistence-of-Visual-Knowledge) almost all computers (as in human comput-ers) in the US during World War II were young women. Human computers received commands from analysts &#8212; predominantly men with the military &#8212; that they then had to interpret and act upon the machine. As Chun argues, "computation depends on 'yes, sir' in response to short declarative sentences and imperatives that are in essence commands ... The command line is a mere operating system (OS) simulation" (page 34). The command line (of computers today) receives these commands as text that is typed in.  
 
-<!--> These repositories we are using for our lessons additionally have a lot of racialized terms. [See 'Ditch These Racist Terms From Your Tech Vocabulary.'](https://lifehacker.com/ditch-these-racist-terms-from-your-tech-vocabulary-1844041452)-->
+<!--These repositories we are using for our lessons additionally have a lot of racialized terms. [See 'Ditch These Racist Terms From Your Tech Vocabulary.'](https://lifehacker.com/ditch-these-racist-terms-from-your-tech-vocabulary-1844041452)-->
 
 
 ## Why is the command line useful?
@@ -190,9 +189,7 @@ Word documents which look like "just words!" are actually comprised of an archiv
 
 For the purposes of communicating with machines and between machines, we need characters to be as flexible as possible. Plain text includes characters of readable material but not graphical representation.
 
-According to the [Unicode Standard](https://www.unicode.org/versions/Unicode6.1.0/), 
-
-"Plain text is a pure sequence of character codes; plain Unicode-encoded text is therefore a sequence of Unicode character codes."
+According to the [Unicode Standard](https://www.unicode.org/versions/Unicode6.1.0/), "Plain text is a pure sequence of character codes; plain Unicode-encoded text is therefore a sequence of Unicode character codes."
 
 Plain text has a few main properties:
 
@@ -219,7 +216,7 @@ When it comes to editing text and writing code, you can use either a text editor
 * "TEI tags describe the characteristics of a given text. For example, TEI tags may be used to indicate paragraph and line breaks, pagination, and major divisions of a text such as volumes, chapters, and sections. In addition, tags may be placed around typographical characteristics such as text that is underlined, italicized, superscripted, etc., and around text that needs special emphasis such as foreign words, misspellings, proper names, etc." [UNL Center for Digital Research in the Humanities](https://cdrh.unl.edu/articles/basicguide/TEI) 
 * Example: ["In transcribing a manuscript, it might be desirable to distinguish among three distinct forms of the letter r."](https://quod.lib.umich.edu/cgi/t/tei/tei-idx?type=HTML&rgn=DIV1&byte=281938)
 * [Projects that use TEI.](https://tei-c.org/Activities/Projects)
-  * "Why do so many book titles have commas in them?!" Face screaming in fear- A lament brought to you by someone who wrote titles into a CSV, didn't quote values, and now has regrets."-[ @quinnanya] <!--(https://twitter.com/quinnanya/status/1422238317878255642)!-->
+  * "Why do so many book titles have commas in them?!" Face screaming in fear- A lament brought to you by someone who wrote titles into a CSV, didn't quote values, and now has regrets."- @quinnanya <!--(https://twitter.com/quinnanya/status/1422238317878255642)!-->
 
 
 # What does this all mean? Why are we telling you all this? 
