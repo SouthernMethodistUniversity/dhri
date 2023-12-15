@@ -1,0 +1,603 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+    <title>Text analysis glossary &#8212; DHRI@SMU</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=5b4479735964841361fd" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=5b4479735964841361fd" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd" />
+  <script src="_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=5b4479735964841361fd"></script>
+
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/clipboard.min.js"></script>
+    <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="_static/sphinx-thebe.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'glossary';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="prev" title="References" href="references.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
+    </nav>
+  
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+
+<a class="navbar-brand logo" href="index.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">DHRI@SMU</p>
+  
+</a></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="index.html">
+                    DHRI 2022
+                </a>
+            </li>
+        </ul>
+        <ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="aboutDHRI.html">Welcome to DHRI@SMU 2022!</a></li>
+
+
+
+
+<li class="toctree-l1"><a class="reference internal" href="dh.html">Digital (or computational) + Humanities</a></li>
+
+
+
+
+
+<li class="toctree-l1"><a class="reference internal" href="data1.html">What is the data life cycle?</a></li>
+
+
+
+
+
+
+
+
+
+
+
+<li class="toctree-l1"><a class="reference internal" href="tools.html">Tools</a></li>
+
+
+
+
+
+<li class="toctree-l1"><a class="reference internal" href="whycoding.html">Coding</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="toctree-l1"><a class="reference internal" href="python.html">Python for Text Mining</a></li>
+<li class="toctree-l1"><a class="reference internal" href="data2.html">Data, Part 2</a></li>
+
+
+
+
+
+
+
+
+
+
+<li class="toctree-l1"><a class="reference internal" href="pm.html">Project Planning</a></li>
+
+
+
+
+
+
+
+
+
+
+<li class="toctree-l1"><a class="reference internal" href="onedayproject.html">One Day Project</a></li>
+<li class="toctree-l1"><a class="reference internal" href="continue.html">Additional Resources (computational skills)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="references.html">References</a></li>
+
+
+
+
+
+
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Text analysis glossary</a></li>
+
+
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/SouthernMethodistUniversity/DHRI" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/SouthernMethodistUniversity/DHRI/issues/new?title=Issue%20on%20page%20%2Fglossary.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/glossary.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Text analysis glossary</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Text analysis glossary</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#digital-pedagogy-keywords">Digital Pedagogy keywords</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#glossary">Glossary</a></li>
+</ul>
+
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article" role="main">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="text-analysis-glossary">
+<h1>Text analysis glossary<a class="headerlink" href="#text-analysis-glossary" title="Permalink to this heading">#</a></h1>
+<p><a class="reference external" href="https://constellate.org/docs/key-terms">Key terms for text analysis</a> - via <a class="reference external" href="https://constellate.org/">Constellate</a></p>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="digital-pedagogy-keywords">
+<h1>Digital Pedagogy keywords<a class="headerlink" href="#digital-pedagogy-keywords" title="Permalink to this heading">#</a></h1>
+<p><a class="reference external" href="https://digitalpedagogy.mla.hcommons.org/keywords/">Key words for Digital Pedagogy in the Humanities</a> - via <a class="reference external" href="https://mla.hcommons.org/">MLA Commons</a></p>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="glossary">
+<h1>Glossary<a class="headerlink" href="#glossary" title="Permalink to this heading">#</a></h1>
+<p>Please see below a list of key terms and concepts, provided in alphabetical order (excluding articles).</p>
+<p><strong>accessibility</strong>—accessibility is “the quality or condition of being accessible (in various senses),” and “access” refers to “to obtain, acquire; to get hold of” or “to gain admission to” (source: Oxford English Dictionary online). “Accessibility” in design speak often refers to design for people with disabilities (see <a class="reference external" href="https://dl.acm.org/citation.cfm?doid=2596695.2596719">Shawn Lawton Henry, et al. 2014</a>). This workshop employs the term “accessibility” to refer to access to those folks as well as to people in different international contexts and/or who speak different languages, and to methods of open or non-proprietary design and sharing (see the <span class="xref myst">Range of Impact</span> page).</p>
+<p><strong>accountability</strong>—accountability refers to “the quality of being accountable; liability to account for and answer for one’s conduct, performance of duties, etc.” or “responsibility” (source: Oxford English Dictionary online). What matters most is how a person practices accountability. For example, Doug Boyd’s (2015) article on <a class="reference external" href="http://ohda.matrix.msu.edu/2015/03/informed-accessioning-questions-to-ask-after-the-interview/">“Informed Accessioning: Questions to Ask After the Interview”</a> and Roshanak Kheshti’s interview on <a class="reference external" href="http://parameters.ssrc.org/2018/04/interview-sound-recording-oral-positionality-and-audio-as-ethnographic-object/">“Sound recording, oral positionality, and audio as ethnographic object”</a> are useful sources on how to practice accountability when recording and sharing interviews and other audio files.</p>
+<p><strong>The Belmont Report</strong>—published by the National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research in 1979, the Belmont Report “”identifies basic ethical principles and guidelines that address ethical issues arising from the conduct of research with human subjects” (source: <a class="reference external" href="https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html">HHS.gov</a>; see <a class="reference external" href="https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html">The Belmont Report</a> page).</p>
+<p><strong>beneficence</strong>—beneficence is a core principe in <em>the Belmont Report</em> that stipulates that researchers should “(1) do not harm and (2) maximize possible benefits and minimize possible harms.” A key concern when applying this principle is an <em>assessment of risks and benefits</em> (source: <a class="reference external" href="https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html">The Belmont Report</a>.</p>
+<p><strong>big data</strong>—“big data” generally refers to digital projects that deal with very large datasets from which different kinds of patterns or analyses are computed. Oftentimes big data researchers do not obtain the informed consent of each person represented by or linked to the obtained data. This can be an ethical concern, given that “even seemingly innocuous and anonymized data have produced unanticipated ethical questions and detrimental impacts” (source: <a class="reference external" href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399">Matthew Zook, et al. 2017</a>).</p>
+<p><strong>categories</strong>—a category is “a term (meaning literally ‘predication’ or ‘assertion’) given to certain general classes of terms, things, or notions” (source: Oxford English Dictionary online). The construction and reproduction of categories—through e.g. library subject headings, tags on websites, categorization methods informing algorithms, and spatial divisions on a map—are an important ethical consideration when doing digital research or a digital project (see the <span class="xref myst">Level of Impact II</span> page).</p>
+<p><strong>cis-hetero-patriarchy</strong>—“Cis” is an adjective describing a person whose gender identity matches their assigned gender at birth, which is generally based on their biological anatomy. “Hetero” is an adjective describing a person who identifies as heterosexual, which generally refers to a woman attracted to only men, or a man attracted to only women. “Cis-hetero-patriarchy” refers to: “a system of power based on the supremacy &amp; dominance of cisheterosexual men through the exploitation &amp; oppression of women and the LGBTQIA*.  Also referred to as sexism.  This includes oppressive constructs such as homophobia, transphobia, biphobia, etc.,” as well as misogyny (source: <a class="reference external" href="https://decolonizeallthethings.com/learning-tools/patriarchy-gender-lesson-plan/">Shay-Akil, Decolonize ALL The Things, “Patriarchy &amp; Gender”</a>). Forms of such dominance include political and economic power and leadership (including owning or controlling property), moral and intellectual authority, and social priviledge. Note that different forms of oppression, based on gender, sexuality, race, class, age, ability, and other categorizations of people, exist always in relation to each other (see Patricia Hill Collins, <em>Black Feminist Thought</em>, 1999).</p>
+<p><strong>consent</strong>—to provide consent is to actively provide permission or agree to something. The more specific term <em>“informed consent”</em> is used to emphasize that in order to provide such permission, a person must be provided clear and correct information (not deception), and be able to comprehend such information. In the context of a research study, per <em>The Belmont Report</em> guidelines, a person must also be informed of their right to volunteer or not to participate in the study, and of their right to withdraw from the study at any point. Ideally, consent would also be enthusiastically given (see <a class="reference external" href="https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html">The Belmont Report</a> page; also see  <a class="reference external" href="https://www.plannedparenthood.org/planned-parenthood-illinois/blog/hold-the-candy-hearts-fries-are-on-the-menu-this-valentines-day">“CONSENT: I [heart] FRIES: Freely given, Reversible, Informed, Enthusiastic, Specific,” from Planned Parenthood</a> also see <a class="reference external" href="https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html">The Belmont Report</a>.</p>
+<p><strong>discourse</strong>—discourses, per Michel Foucault’s theorization, are competing ideologies (or individualized groups of statements), constructed by people and institutions in power over time, that become dominant amongst societies of people. Discourses produce knowledge in mediums that a society perceives as normative and generally does not question; in doing so, discourses pervasively shape how the people in that society think, act, and react (see Michel Foucault, The Archaeology of Knowledge and the Discourse on Language, 1969; also see the <span class="xref myst">Level of Impact II</span> page).</p>
+<p><strong>“the distance principle”</strong>—the distance principle refers to “the extent to which Internet texts or data sets might connect to persons [even when] the conceptual or experiential distance between the researcher and author/participant [does not appear to be] close” (source:  <a class="reference external" href="https://www.academia.edu/8037870/Ethical_Concerns_in_Internet_Research">Annette Markam and Elizabeth Buchanon</a>; also see the <span class="xref myst">Level of Impact I</span> page).</p>
+<p><strong>ethics</strong>—I define ethics as the moral principles that an individual aims to follow in practice to the best of their ability, research, and foresight (see the <span class="xref myst">Ethics</span> page).</p>
+<p><strong>“an impact approach”</strong>—an impact approach to doing ethical research is based on the assumption that all research has impacts and thus a researcher should be critical and intentional with what sorts of impacts they aim for or expect to result, and take personal responsibility for the effects of their research methods (source: <a class="reference external" href="http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/">Annette Markham 2016</a>). Markham focuses on three levels of impact: direct impacts on people, the ramifications of (re)producing categories, and social, political and economic effects (see the <span class="xref myst">Levels of Impact</span> page)</p>
+<p><strong>hegemony</strong>—Antonio Gramsci’s concept of hegemony refers to “the ability of a dominant group to create [majority] consent and agreement [around a particular system of meanings] within a population without the use or threat of force” (source: Kenneth Guest, <em>Cultural Anthropology: A Toolkit for a Global Age</em>, 2014, page 52). Hegemony is one way of understanding how dominant forms of knowledge and power produce and reinforce each other (see the <span class="xref myst">Level of Impact II</span> page).</p>
+<p><strong>human subjects</strong>—a human subject refers to “a living individual about whom an investigator (whether professional or student) conducting research obtains (1) data through intervention or interaction with the individual, or (2) identifiable private information” (source: <a class="reference external" href="https://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/index.html">HHS.gov</a>). However, according to <a class="reference external" href="http://aoir.org/reports/ethics2.pdf">the AoIR Ethics Working Committee’s 2012 report</a>, “The definition of ‘human subject’ has become, unfortunately, a litmus test for whether or not one needs to undergo ethical review before conducting research… ‘human subject’ has never been a good fit for describing many internet-based research environments” (see the <span class="xref myst">Level of Impact I</span> page).</p>
+<p><strong>informed consent</strong>-see <em>consent</em></p>
+<p><strong>Institutional Review Board (IRB)</strong>—an institutional body (a designated group of people) that is intended to provide oversight, administrative support, and educational training to ensure that research with human subjects done by researchers of that institution complies with federal and state regulations, and university or institutional policy. Every university or research institution must, legally, have its own or an affiliated IRB (see <a class="reference external" href="https://www.smu.edu/Research/ResearchServices/ResearchCompliance">SMU Research Compliance</a>.</p>
+<p><strong>justice</strong>—a core principe in <em>the Belmont Report</em> that stipulates that researchers should justly distribute the burdens and benefits of the research studey: “(1) to each person an equal share, (2) to each person according to individual need, (3) to each person according to individual effort, (4) to each person according to societal contribution, and (5) to each person according to merit.” A key concern when applying this principle is the <em>selection of subjects</em>, that is, the fair recruitment and selection of research subjects (source: <a class="reference external" href="https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html">The Belmont Report</a>.</p>
+<p><strong>The National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research</strong>—a commission created as a result of the National Research Act of 1974, “charged with identifying the basic ethical principles that should underlie the conduct of biomedical and behavioral research involving human subjects and developing guidelines to assure that such research is conducted in accordance with those principles” (source: <a class="reference external" href="https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html">HHS.gov</a>.</p>
+<p><strong>personhood</strong>—personhood is “the quality or condition of being a person; [especially] personal identity, selfhood” (Oxford English Dictionary online). When doing internet or digital research, it is important to consider how a person’s data, avatar, images, videos, audio files, social media and other forms of digital information may be understood as an expression of their personhood (source: <a class="reference external" href="http://aoir.org/reports/ethics2.pdf">the AoIR Ethics Working Committee’s 2012 report</a>; also see the <span class="xref myst">Level of Impact I</span> page).</p>
+<p><strong>policing the crisis</strong>—Stuart Hall et al.’s concept of “policing the crisis” refers to the unnatural process by which certain actions (by certain people) become and continue to be understood, reported, policed, and sanctioned as a type of “crime.” The police, the judicial system, and mainstream media “are actively and continuously part of [this] whole process” (source: Stuart Hall et al., Policing the Crisis, 2013 [1978], page 54; also see the <span class="xref myst">Level of Impact II</span> page).</p>
+<p><strong>respect for persons</strong>—a core principle in <em>the Belmont Report</em> that stipulates that “individuals should be treated as autonomous agents, and second, that persons with diminished autonomy are entitled to protection.” A key concern when applying this principle is <em>informed consent</em> (source: <a class="reference external" href="https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html">The Belmont Report</a>.</p>
+<p><strong>settler colonialism</strong>—colonialism refers to: “a power relationship in which an external nation state (colonizer) directly controls the political &amp; economic system of another nation state &amp;/or people (colony).  Involves the presence of a military force to crush dissent &amp; the migration of people from the colony to the nation state of the colonizer” (source: <a class="reference external" href="https://decolonizeallthethings.com/learning-tools/patriarchy-gender-lesson-plan/">Shay-Akil, Decolonize ALL The Things, “Glossary”</a>. <em>Settler</em> colonialism refers to such a power relationship in which the people from the colonizer nation-state also occupy and live on (or “settle” in) the land of the people of the colony, thus “[erecting] a new colonial society on the expropriated land base” meanwhile “[striving] for the dissolution of native societies” (source: Patrick Wolfe, “Settler colonialism and the elimination of the native,” 2006). In other words: “settler colonizers come to stay: invasion is a structure not an event” (source: ibid).</p>
+<p><strong>“situated ethics”</strong>—in the context of this workshop, “situated ethics” refers to the notion that a person’s understandings of and commitments to ethics or morality are greatly linked to their own experiences, positionalities, and political orientations, as well as the particular context in which that person is putting such ethics into practice. This understanding of “situated ethics” is an application of Donna Haraway’s idea of “situated knowledges” (1988) to the arena of ethical perspectives (see the <span class="xref myst">Ethics</span> page). Note that Helen Simons and Robin Usher, in <em>Situated Ethics in Educational Research</em> (2000), provide a slightly different but related definition of “situated ethics” which emphasizes the ways in which ethics are “local and specific to particular practices” (page 2).</p>
+<p><strong>surveillance</strong>—surveillance refers to “the watch or guard kept over a person, etc., [especially] over a suspected person, a prisoner, or the like; often, spying, supervision” or “supervision for the purpose of direction or control” (source: Oxford English Dictionary online). Surveillance, per my understanding, includes research (including <em>“big data”</em> research) of people’s personal digital data that is conducted without their informed consent, as well as businesses’ or governments’ uses of various programs and devices to record or listen to people’s behaviors, data, voices etc. (see the <span class="xref myst">Level of Impact III</span> page).</p>
+<p><strong>universal design</strong>—universal design refers to “the process of creating products that are usable by people with the widest possible range of abilities, operating within the widest possible range of situations” (source: <a class="reference external" href="https://dl.acm.org/citation.cfm?doid=2596695.2596719">Shawn Lawton Henry, et al. 2014</a>).</p>
+<p><strong>white supremacy</strong>—white supremacy, or white supremacist racism, refers to: “a system of power based on the supremacy &amp; dominance of ‘White’ people. ‘White’ is a political concept created by the European &amp; colonial ruling elite of the 17th &amp; 18th centuries that is revealed in attitudes, behaviors &amp; institutional systems in which white people maintain supremacy over peoples of color” (source: <a class="reference external" href="https://decolonizeallthethings.com/learning-tools/race-ethnicity-racism/">Shay-Akil, Decolonize ALL The Things, “Race, Ethnicity, &amp; Racism”</a>), and, I’d add, people of color who are perceived as closer to “white”—to a much lesser degree—also maintain forms of supremacy in relation to other people of color in certain contexts (see also definitions of “colorism”). Similar to cis-hetero-patriarchy, forms of such dominance include political and economic power and leadership (including owning or controlling property), moral and intellectual authority, and social priviledge. Again, note that different forms of oppression, based on gender, sexuality, race, class, age, ability, and other categorizations of people, exist always in relation to each other (see Patricia Hill Collins, <em>Black Feminist Thought</em>, 1999).</p>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="references.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">References</p>
+      </div>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Text analysis glossary</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#digital-pedagogy-keywords">Digital Pedagogy keywords</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#glossary">Glossary</a></li>
+</ul>
+
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Rafia Mirza, & <a href="https://www.smu.edu/libraries/scholarship/srstudio.">Scholarship & Research Studio </a> staff.
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright Some rights reserved. Chapters are &#34;CC-BY-NC&#34; or &#34;CC-BY-SA&#34;.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=5b4479735964841361fd"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
