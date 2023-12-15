@@ -1,0 +1,20 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+chapters:
+  - file: aboutDHRI
+  - file: dh
+  - file: data1
+  - file: tools
+  - file: whycoding
+  - file: python
+  - file: data2
+  - file: pm
+  - file: onedayproject
+  - file: continue
+  - file: references
+  - file: glossary
+    
+
