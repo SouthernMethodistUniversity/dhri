@@ -1,4 +1,4 @@
-# Welcome to DHRI@SMU 2024! **DRAFT VERSION**
+# Welcome to DHRI@SMU 2024! **Note:DRAFT**
 
 ## Before DHRI begins, please do the following: 
 
@@ -63,7 +63,7 @@ If you have any questions about this page, contact [Rafia](https://guides.smu.ed
         * If it went poorly, what made it go poorly? 
     * Affordances & limitations apply at every step; every time you make a choice, it allows certain possibilities and precludes other options.  
      
-## Instructors for DHRI@SMU2022
+## Instructors for DHRI@SMU2024
 * [Rafia Mirza, Humanities Librarian](http://guides.smu.edu/prf.php?account_id=142826)
 * [Eric Godat, Data Science Research Applications Developer](https://www.smu.edu/OIT/research)
 
