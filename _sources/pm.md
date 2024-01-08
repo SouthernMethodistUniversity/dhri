@@ -32,7 +32,7 @@ None of those things can happen without a plan. If you walk out those doors toda
 ## Brief project plan 
 
 * You can have something very lightweight like a Project charter.
-    * [Project charter handout](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/charters-handout.pdf)
+    * [Project charter handout](https://github.com/SouthernMethodistUniversity/dhri/blob/main/files/charters-handout.pdf)
 
 **Template:** List the following.
 * Project title:
@@ -87,7 +87,7 @@ If applicable, describe how this project will live beyond the grant period. Will
 ## Lessons Learned: Viral Texts
 "I have learned a good deal working on this project about iterative, data-driven research, which had I fully understood earlier might have led me to plan its outputs very differently. My edition-building perspective was not ready for the reality of CS research at all." [Talking about Viral Texts Failures](https://ryancordell.org/research/VT-database-fail/)
 
-[Now take a look at the Brief Charter handout](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/charters-handout.pdf) and respond to the following in the thread in Slack:
+[Now take a look at the Brief Charter handout](https://github.com/SouthernMethodistUniversity/dhri/blob/main/files/charters-handout.pdf) and respond to the following in the thread in Slack:
 1.	How might the use of this charter have affected their process?
 2.	If a charter cannot guarantee success, why use it? 
 3.	How is this similar or different than other project planning approaches you have used?
@@ -115,7 +115,7 @@ Respond to the following in the thread in Slack:
 # Large Scale Project
 
 ### Scoping 
-* [How does this project charter handout apply to your project?](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/charters-handout.pdf)
+* [How does this project charter handout apply to your project?](https://github.com/SouthernMethodistUniversity/dhri/blob/main/files/charters-handout.pdf)
 * How does this apply to a project you have in mind or have worked on in the past?
 * Can you fill out any of these sections for your project? *or* Thinking of some of the projects we have looked at, how would you answer these questions for those projects (ex. Viral Texts). 
 * How would using this tool for project planing help you in your process?

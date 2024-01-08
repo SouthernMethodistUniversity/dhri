@@ -62,7 +62,7 @@ In this session, attendees should come to understand how to define DH (in a way 
 * What are humanities questions?
 
 ### What is computational thinking?
-* Command thinking (Intro. to Computer science, STS (Science and Technology Studies), etc.). We will be discussing this more when we discuss [coding.](https://southernmethodistuniversity.github.io/dhri/sections/whycoding.html)   
+* Command thinking (Intro. to Computer science, STS (Science and Technology Studies), etc.). We will be discussing this more when we discuss [coding.](https://southernmethodistuniversity.github.io/dhri/whycoding.html)   
 * "Computational thinking is a pattern of problem solving that involves organizing and analyzing data, abstracting in search of patterns, and breaking complex problems into discrete, solvable parts." [Jeannette Wing, 2006, doi: 10.1145/1118178.1118215](https://dl.acm.org/doi/10.1145/1118178.1118215) 
 * "It enables humanities researchers to formulate new questions and to think through how to leverage both data and computational processes to explore those questions. While these skills may be taught in the context of a particular programming language, in our case Python, the patterns of thought are transferable to any language or computational process."
 [Lessons Learned from “Bridging the Gap: Women, Code, and the Digital Humanities” Reflection on 2014 ACH Microgrant by Celeste Sharpe and Jeri Wieringa](http://ach.org/blog/2015/05/06/bridging-the-gap/)
@@ -130,20 +130,20 @@ Like reading a bibliography:
 ## Group work & project planning
 ### Project planning models 
 
-* [Project Charter](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/charters-handout.pdf)
+* [Project Charter](https://github.com/SouthernMethodistUniversity/dhri/blob/main/files/charters-handout.pdf)
 * [MOU](https://rc.library.uta.edu/uta-ir/handle/10106/25646)
 * PMP: [Project Management Office (PMO) @SMU](https://www.smu.edu/OIT/Governance)
 
 ***Recurring questions to keep in mind: What are the affordances of choosing this path? What are the limitations?*** 
 
-* You can use a [project charter](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/charters-handout.pdf) as a lightweight example of collaborative brainstorming and documentation.
+* You can use a [project charter](https://github.com/SouthernMethodistUniversity/dhri/blob/main/files/charters-handout.pdf) as a lightweight example of collaborative brainstorming and documentation.
 
 
 # How did they do *this* specific project? 
 * ***We will be discussing this page in our synchronous meeting. You do not need to engage with this page before the synchronous session.***
 * What does a project site tell you about *how* it was done? 
 * [Activity handout](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/evaluate_handout.pdf)
-* [How did they make that handout](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/how-handout.pdf)  
+* [How did they make that handout](https://github.com/SouthernMethodistUniversity/dhri/blob/main/files/how-handout.pdf)  
  * "Many students tell me that in order to get started with digital humanities, they’d like to have some idea of what they might do and what technical skills they might need in order to do it." [by Miriam Posner](http://miriamposner.com/blog/how-did-they-make-that/)
 
 ### Torn Apart/Separados, a project which has two phases.
@@ -169,7 +169,7 @@ Like reading a bibliography:
 * What type of computation or tool might you use?
 
 ## Planning a project
-* How might you fill out this [Project Charter handout?](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/charters-handout.pdf)
+* How might you fill out this [Project Charter handout?](https://github.com/SouthernMethodistUniversity/dhri/blob/main/files/charters-handout.pdf)
 * We will return to this in the Project Planning discussion. 
 
 ## Further Activities (optional)
@@ -189,7 +189,7 @@ Like reading a bibliography:
 ----
 #### Attribution 
 
-Session Leaders: [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) & [Jonathan McMichael](http://guides.smu.edu/prf.php?account_id=104877)
+Session Leaders: [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) 
 * Written by Rafia Mirza. 
 
 Our curriculum is based on the [Digital Research Institute (DHRI) Curriculum](https://github.com/DHRI-Curriculum) by [Graduate Center Digital Initiatives](https://gcdi.commons.gc.cuny.edu/). Their curriculum is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). When sharing this material or derivative works, preserve this paragraph, changing only the title of the derivative work, or provide comparable attribution.

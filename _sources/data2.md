@@ -40,8 +40,8 @@ Cultural heritage institutions like archives and museums can require that you as
 
 ## Licensing
 * If you’re using digital resources that were acquired or made available under a license, then **your use is governed by the license and not by copyright.** 
-* For example, SMU patrons students using ARTstor are governed by the license that SMU Libraries signed in order to make [ARTstor](https://login.proxy.libraries.smu.edu/login?url=https://library.artstor.org) images available to the SMU community. 
-* See examples of usage restrictions in the [licenses of ARTstor](https://www-artstor-org.proxy.libraries.smu.edu/artstor-terms/).
+* For example, SMU patrons students using Art images form JSTOR are governed by the license that SMU Libraries signed in order to make [JSTOR](https://login.proxy.libraries.smu.edu/login?url=https://www.jstor.org/artstor) images available to the SMU community. (See [JSTOR Terms and Conditions of Use](https://about.jstor.org/terms/#whats-in-jstor) 
+* Select [an art image]((https://login.proxy.libraries.smu.edu/login?url=https://www.jstor.org/artstor)) and review the specific "Terms and copyright"
 
 ## What is fair use? 
 [Fair Use as a doctrine has a long informal tradition, dating back to the 18th century, but its codification only came into effect with the Copyright Act of 1976.](https://guides.smu.edu/copyright/fairuse)
@@ -151,8 +151,8 @@ More case studies:
 * [Citations for this now pulled dataset "80 Million Tiny Images" in Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C44&q=%2280+Million+Tiny+Images%22&btnG=). 
     * Even though this data set was 'pulled,' look how recently it has been cited. 
 * We also touched on this during our data session
-    * [Data and Power](https://southernmethodistuniversity.github.io/dhri/sections/data1.html#data-and-power)
-    * [Big Data](https://southernmethodistuniversity.github.io/dhri/sections/data1.html#lessons-for-big-data)
+    * [Data and Power](https://southernmethodistuniversity.github.io/dhri/data1.html#data-and-power)
+    * [Big Data](https://southernmethodistuniversity.github.io/dhri/data1.html#lessons-for-big-data)
 
 
 ## Reflection prompt
@@ -165,8 +165,8 @@ Think about the digital project or research you are or will be working on. If yo
 # Level of Impact I: Direct impacts on people through data collection
 
 ## Data is people!
-* ["Each of us has a “data double,” a digital duplicate of our lives captured in data and spread across assemblages of information systems."](https://datadoubles.org/2018/05/01/what-is-a-data-double/)
-    * [Data doubles project](https://datadoubles.org/project/)
+* ["Each of us has a “data double,” a digital duplicate of our lives captured in data and spread across assemblages of information systems."](https://web.archive.org/web/20230308141205/https://datadoubles.org/2018/05/01/what-is-a-data-double/)
+    * [Data doubles project](https://web.archive.org/web/20230922124401/https://datadoubles.org/project/)
     
 ### Direct effects on people
 
@@ -558,7 +558,7 @@ Questions
 -----
 #### Attribution 
 
-Session Leaders: [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) & [Jonathan McMichael](http://guides.smu.edu/prf.php?account_id=104877)
+Session Leaders: [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) 
 * Written by Rafia Mirza. 
 
 Session partially adapted from:
