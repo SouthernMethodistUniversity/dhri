@@ -1,6 +1,6 @@
-# DHRI 2022
+# DHRI@SMU 
 
-This is the repository for the session content that was planned for DHRI@SMU 2022.
+This is the repository for the session content for DHRI@SMU.
 
 * [Go here for information on previous years.](https://southernmethodistuniversity.github.io/home/about.html)
 * [Go here for information on upcoming workshops at SMU.](https://www.smu.edu/libraries/help/workshops)
