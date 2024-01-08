@@ -74,12 +74,12 @@ There are many ways to represent data, just as there are many sources of data. A
 
 * Collection of digital objects acquired and generated during research
 
-List of forms adapted from: [Georgia Tech](https://libguides.gatech.edu/)
+List of forms adapted from: Georgia Tech Library 
 <!-- now unpublished guide (http://libguides.gatech.edu/content.php?pid=123776&sid=3067221)!t --> 
 
 
 ## Raw data 
-* Raw data is yet to be processed, meaning it has yet to be manipulated by a human or computer. Received or collected data could be in any number of formats, locations, etc.. It could be in any of the forms listed [here](https://southernmethodistuniversity.github.io/dhri/sections/data1.html#forms-of-data).
+* Raw data is yet to be processed, meaning it has yet to be manipulated by a human or computer. Received or collected data could be in any number of formats, locations, etc.. It could be in any of the forms listed above.
 
 * But "raw data" is a relative term, inasmuch as when one person finishes processing data and presents it as a finished product, another person may take that product and work on it further, and for them that data is "raw data". 
 
@@ -133,7 +133,7 @@ Tiger,Jaws/n
 ### Data formats
 A small detour to discuss (the ethics of?) data formats. For accessibility, future-proofing, and preservation, keep your data in open, sustainable formats. A demonstration:
 
-1. If you click on [this link,](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/cats.zip) and then click on the Download option on the right hand side of the page, this will download a .Zip file. the Zip file contains 2 files named cats. 
+1. If you click on [this link,](https://github.com/SouthernMethodistUniversity/dhri/blob/main/files/cats.zip) and then click on the Download option on the right hand side of the page, this will download a .Zip file. the Zip file contains 2 files named cats. 
 2. Open cats.csv file in a text editor, and then in an app like Excel. This is a CSV, an open, text-only, file format.
 3. Now try to do the same with cats.xlsx. This is a proprietary format! 
 
@@ -190,7 +190,7 @@ Look back at our example of cats to see how they may or may not follow those gui
   * A *dataset* is a structured collection of data generally associated with a unique body of work.
   * A *database* is an organized collection of data stored as multiple datasets. Those datasets are generally stored and accessed electronically from a computer system that allows the data to be easily accessed, manipulated, and updated. [Definition via USGS](https://www.usgs.gov/faqs/what-are-differences-between-data-dataset-and-database#:~:text=Data%20are%20observations%20or%20measurements,a%20unique%20body%20of%20work.) 
     * Remember that just because data may be avaible digitally, it does *not* automatically exist as a dataset. You may have to do works manually (copying and pasting into a spreadsheet) or computationally (scraping the data) to create a dataset usable for computational analysis.  
-    * Read more about [Data Prep and Cleaning](https://digitalhumanities.berkeley.edu/data-prep-and-cleaning) and [Cleaning Text Data](https://medhieval.com/classes/hh2019/labs/cleaning-text-data/)
+    * Read more about [Data Prep and Cleaning](https://web.archive.org/web/20230529030156/https://digitalhumanities.berkeley.edu/data-prep-and-cleaning) and [Cleaning Text Data](https://medhieval.com/classes/hh2019/labs/cleaning-text-data/)
 
 * You can search for already existing datasets in the following library databases.
 *  [Datasets and Data Repositories guide](https://guides.smu.edu/data/)
@@ -237,7 +237,7 @@ Look back at our example of cats to see how they may or may not follow those gui
 * What ethical considerations might ensue? Institutional Review Boards (IRB) are meant to provide oversight for research studies (involving human subjects). Are IRBs sufficient, or are there additional considerations?
     * [SMU Research Compliance](https://www.smu.edu/Research/ResearchServices/ResearchCompliance)
 * What does it mean to use data collected for one purpose for a different purpose? What is left out? 
-    * [What does platform data tell us?](https://points.datasociety.net/how-not-to-know-ourselves-5227c185569 )
+    * [What does platform data tell us?](https://web.archive.org/web/20200919185846/https://points.datasociety.net/how-not-to-know-ourselves-5227c185569?gi=912ad24d5213)
     * What humanities questions can you ask? 
     * Big data, medium data, small data, curated data, clean data
 * [Humanities Data in the Library: Integrity, Form, Access by Thomas Padilla](http://www.dlib.org/dlib/march16/padilla/03padilla.html)
@@ -248,11 +248,11 @@ Look back at our example of cats to see how they may or may not follow those gui
 
  ## Handout for data discussion 
 
-* [Data discussion handout: To download this PDF, click on this link, it should automatically download.](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/handoutdata.pdf)
+* [Data discussion handout: To download this PDF, click on this link, it should automatically download.](https://github.com/SouthernMethodistUniversity/dhri/blob/main/files/handoutdata.pdf)
 
-[![datalifecycle](../sections/images/datalifecycle.png)](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/bigdatalessons.pdf)
+[![datalifecycle](../sections/images/datalifecycle.png)](https://github.com/SouthernMethodistUniversity/dhri/blob/main/files/bigdatalessons.pdf)
 
-[![3challenges](../sections/images/3challenges.png)](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/bigdatalessons.pdf) 
+[![3challenges](../sections/images/3challenges.png)](https://github.com/SouthernMethodistUniversity/dhri/blob/main/files/bigdatalessons.pdf) 
 
 
 # Data and power
@@ -273,8 +273,8 @@ What are the potentials of using data to solve problems or to advance research? 
 
 # Data as extraction
 * [“Data is the new oil."](https://towardsdatascience.com/is-data-really-the-new-oil-in-the-21st-century-17d014811b88)
-* "U.S. intellectual-property law, established as an economic incentive for inventors, privileges people who can write. In copying down the grammar, the stories, and the vocabulary of the Penobscot, Siebert made them his. In dying, he made them the American Philosophical Society’s....Siebert’s approach as archetypal of nineteenth- and early-twentieth-century anthropological research, which tended to cast indigenous people not as participants but as objects of study, and rarely aspired to benefit them." -[How Did a Self-Taught Linguist Come to Own an Indigenous Language?](https://www.newyorker.com/magazine/2021/04/19/how-did-a-self-taught-linguist-come-to-own-an-indigenous-language)
-* "The Te Hiku team see data as the final frontier for colonisation. “They suppressed our languages and physically beat it out of our grandparents,” Jones says. “And now they want to sell our language back to us as a service.”[Māori are trying to save their language from Big Tech](https://www.wired.co.uk/article/maori-language-tech)
+* "U.S. intellectual-property law, established as an economic incentive for inventors, privileges people who can write. In copying down the grammar, the stories, and the vocabulary of the Penobscot, Siebert made them his. In dying, he made them the American Philosophical Society’s....Siebert’s approach as archetypal of nineteenth- and early-twentieth-century anthropological research, which tended to cast indigenous people not as participants but as objects of study, and rarely aspired to benefit them." -[How Did a Self-Taught Linguist Come to Own an Indigenous Language?](https://www.newyorker.com/magazine/2021/04/19/how-did-a-self-taught-linguist-come-to-own-an-indigenous-language) & [Wayback link](https://web.archive.org/web/20230205095111/https://www.newyorker.com/magazine/2021/04/19/how-did-a-self-taught-linguist-come-to-own-an-indigenous-language)
+* "The Te Hiku team see data as the final frontier for colonisation. “They suppressed our languages and physically beat it out of our grandparents,” Jones says. “And now they want to sell our language back to us as a service.”[Māori are trying to save their language from Big Tech](https://www.wired.co.uk/article/maori-language-tech) & [Wayback linkk](https://web.archive.org/web/20210428143748/https://www.wired.co.uk/article/maori-language-tech)
 
 ## Examples of data resistance
 * Group/participatory analysis of data (Jackson, 2008)
@@ -327,16 +327,16 @@ Zook, Matthew et al. “Ten simple rules for responsible big data research.” P
 
 #  About your data project 
 * What topic(s) do you want to focus on?
-* What kind(s) of [data](https://southernmethodistuniversity.github.io/dhri/sections/data2.html) will you need?
+* What kind(s) of [data](https://southernmethodistuniversity.github.io/dhri/data2.html) will you need?
 * Do you already have a data set identified for use? 
     * Here is is a link to our [Datasets and Data Repositories guide](https://guides.smu.edu/data)
-* [To download the Lesson for Big Data handout as a PDF: click on this link, then click on Download button on top right of page.](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/bigdatalessons.pdf)
+* [To download the Lesson for Big Data handout as a PDF: click on this link, then click on Download button on top right of page.](https://github.com/SouthernMethodistUniversity/dhri/blob/main/files/bigdatalessons.pdf)
     * This version of the handout has additional content. Download the PDF for links to be active; they are not active when you view the file online. 
 
 # Reflection (What to do *after* this session)
 * What would you put about your data in your timeline? When considering the data life cycle are there certain places that might present challenges to your research project
 * How might good project planning help you overcome some of those challenges? 
- * Refer back to the [Project Charter handout?](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/charters-handout.pdf) and add your notes. 
+ * Refer back to the [Project Charter handout?](https://github.com/SouthernMethodistUniversity/dhri/blob/main/files/charters-handout.pdf) and add your notes. 
 
 * Note: For the purposes of getting started with DH, we recommend finding an already existing data set for your project, as creating, cleaning and/or structuring a new dataset is often time and labor intensive. 
 
@@ -383,7 +383,7 @@ Further reading: This 3-part series on data journalism and data projects in gene
 -----
 #### Attribution 
 
-Session Leaders: [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) & [Jonathan McMichael](http://guides.smu.edu/prf.php?account_id=104877)
+Session Leaders: [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) 
 * Written by Rafia Mirza. 
 
 * Primarily based on [Chris Alen Sula's work](http://chrisalensula.org/).[“Nuances of Data: What Can DH Contribute?”](https://docs.google.com/presentation/d/1JlKse8nv3KMTVi8QbwZPI1A6YUkXra1-ypltJRb9hZs/edit#slide=id.p) Association for Computers & Humanities, Pittsburgh, Penn., 24 July 2019.

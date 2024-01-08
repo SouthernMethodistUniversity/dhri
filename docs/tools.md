@@ -8,7 +8,7 @@ We have been discussing different aspects and stages of digital scholarship proj
 ## How do you look for or choose a tool?
 * Like any other type of a tool, you want to look for a tool that helps you accomplish a specific task. 
 * What is it you are trying to *do*?
-    * We are referring back to the [M. Posner reading](https://southernmethodistuniversity.github.io/dhri/sections/dh.html#how-did-they-do-that-general) in this session.
+    * We are referring back to the [M. Posner reading](https://southernmethodistuniversity.github.io/dhri/dh.html#how-did-they-do-that-general) in this session.
 * Since a tool is a 'fancy program' someone else (or multiple someones) wrote. What did they create it to do? 
 * Think about the stage you are at in your project. Does the tool do what you need at this stage? 
     * You can assess a tool like we assess a project. What does the *About* page say? Is there a gallery or example page? 

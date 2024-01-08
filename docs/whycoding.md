@@ -340,7 +340,7 @@ Now that we have discussing computing, what are some of the challenges in coding
 -----
 #### Attribution 
 
-Session Leaders:  [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) & [Jonathan McMichael](http://guides.smu.edu/prf.php?account_id=104877)
+Session Leaders:  [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) 
 * Written by Rafia Mirza. 
 
 Our curriculum is based on the [Digital Research Institute (DRI) Curriculum](http://purl.org/dc/terms/) by [Graduate Center Digital Initiatives.](https://gcdi.commons.gc.cuny.edu/) It is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). When sharing this material or derivative works, preserve this paragraph, changing only the title of the derivative work, or provide comparable attribution.

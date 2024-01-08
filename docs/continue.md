@@ -7,7 +7,7 @@
 
 [OIT](https://www.smu.edu/OIT/Training) 
 
-[SMU Libraries Request a Workshop](https://www.smu.edu/libraries/fondren/services/workshops)
+[SMU Libraries Request a Workshop](https://www.smu.edu/libraries/help/workshops)
 
 [LinkedIn Learning with Lynda.com @SMU](https://www.smu.edu/OIT/Services/LinkedIn)
 
@@ -22,8 +22,6 @@
 [DataBasic](https://databasic.io/en/)
 
 [Data Fundamentals](https://pow123.github.io/UWI-Mona/02-starting-with-data.html) 
-
-[Data life cycle introduction](https://github.com/SouthernMethodistUniversity/datalifecycle)
 
 [Software Carpentry](https://software-carpentry.org/lessons/)
 
