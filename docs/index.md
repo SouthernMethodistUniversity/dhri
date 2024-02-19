@@ -1,7 +1,8 @@
 # DHRI@SMU 
 
 This is the repository for the session content for DHRI@SMU.
-
+* [Go here for information on **DHRI@SMU 2024.**](https://smu.edu/dhri)
+    * [Go here for the **schedule for DHRI@SMU 2024.**](https://github.com/SouthernMethodistUniversity/dhri/blob/main/files/schedule.pdf)
 * [Go here for information on previous years.](https://southernmethodistuniversity.github.io/home/about.html)
 * [Go here for information on upcoming workshops at SMU.](https://www.smu.edu/libraries/help/workshops)
 
