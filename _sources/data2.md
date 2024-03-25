@@ -55,7 +55,7 @@ Cultural heritage institutions like archives and museums can require that you as
 ## Copyright permissions workflow 
 Licensing, copyright, and fair use all together in a workflow diagram for determining when to seek permission to use a copyrighted work.
 
-[![Copyright Workflow](../sections/images/CPW.jpg)]
+[![Copyright Workflow](../images/CPW.jpg)]
  
 ## Creative Commons 
 [What is a Creative Commons license?](https://creativecommons.org/share-your-work/)
@@ -170,7 +170,7 @@ Think about the digital project or research you are or will be working on. If yo
     
 ### Direct effects on people
 
-> "At the most basic level of an impact approach, we might ask **how our methods of data collection impact humans, directly.** If one is interviewing, or the data is visibly connected to a person, this is easy to see. But a distance principle might help us recognize that when the data is very distant from where it originated, it can seem disconnected from persons, or what some regulators call ‘human subjects.’" ([Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/), emphasis added) 
+> "At the most basic level of an impact approach, we might ask **how our methods of data collection impact humans, directly.** If one is interviewing, or the data is visibly connected to a person, this is easy to see. But a distance principle might help us recognize that when the data is very distant from where it originated, it can seem disconnected from persons, or what some regulators call ‘human subjects.’" [Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/), emphasis added.
 
 * Context for "okcupid data release": "A group of researchers has released a data set on nearly 70,000 users of the online dating site OkCupid. The data dump breaks the cardinal rule of social science research ethics: It took identifiable personal data without permission. The information — while publicly available to OkCupid users — was collected by Danish researchers who never contacted OkCupid or its clientele about using it. 
 * The data, collected from November 2014 to March 2015, includes user names, ages, gender, religion, and personality traits, as well as answers to the personal questions the site asks to help match potential mates. The users hail from a few dozen countries around the world." [Researchers just released profile data on 70,000 OkCupid users without permission](https://www.vox.com/2016/5/12/11666116/70000-okcupid-users-data-release)
@@ -197,7 +197,7 @@ Source: [Ethical Decision-Making and Internet Research, Ver. 2](http://aoir.org/
 
 A working definition of the “distance principle”:
 
-> "**the extent to which Internet texts or data sets might connect to persons** [even when] the conceptual or experiential distance between the researcher and author/participant [does not appear to be] close" ([Annette Markam & Elizabeth Buchanon, “Ethical Concerns in Internet Research”](https://www.academia.edu/8037870/Ethical_Concerns_in_Internet_Research), page 10, emphasis added)  
+> "**the extent to which Internet texts or data sets might connect to persons** [even when] the conceptual or experiential distance between the researcher and author/participant [does not appear to be] close" [Annette Markam & Elizabeth Buchanon, “Ethical Concerns in Internet Research”](https://www.academia.edu/8037870/Ethical_Concerns_in_Internet_Research), page 10, emphasis added.  
 
 
 ## Data 
@@ -212,7 +212,7 @@ A working definition of the “distance principle”:
 
 Some questions to consider:  
 
-> "In an age of digital media, do we really have any privacy?" ([Susan Barnes, “A Privacy Paradox,” 2006](http://firstmonday.org/article/view/1394/1312))  
+> "In an age of digital media, do we really have any privacy?" [Susan Barnes, “A Privacy Paradox,” 2006](https://firstmonday.org/ojs/index.php/fm/article/view/1394/1312)
 
 - How do we delineate between "research" vs. "spying"?  Does this change when the project focuses on "big data"? (see [Berendt, Büchler, & Rockwell, “Is it Research or is it Spying? Thinking-Through Ethics in Big Data AI and Other Knowledge Sciences,” 2015](https://people.cs.kuleuven.be/~bettina.berendt/Papers/berendt_buechler_rockwell_KUIN_2015.pdf))
 - What forms of "public" data are ethical to use? Or require attribution?
@@ -248,9 +248,9 @@ Further reading: [Patrick Sweeney, "Images of Faces Gleaned from Social Media in
 
 ## Politics of knowledge production
 
-> "At another level, we can ask how our methods of organizing data, analytical interpretations, or findings as shared datasets are being used — or might be used — **to build definitional categories or to profile particular groups** in ways that could impact livelihoods or lives. Are we contributing positive or negative categorizations?" ([Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/), emphasis added)  
+> "At another level, we can ask how our methods of organizing data, analytical interpretations, or findings as shared datasets are being used — or might be used — **to build definitional categories or to profile particular groups** in ways that could impact livelihoods or lives. Are we contributing positive or negative categorizations?" [Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/), emphasis added.
 
-[![graphic of two words—"knowledge" and "power"—and semi-circular arrows from "power" to "knowledge," and from "knowledge" to "power," forming a circle](../sections/images/power.png)]
+[![graphic of two words—"knowledge" and "power"—and semi-circular arrows from "power" to "knowledge," and from "knowledge" to "power," forming a circle](../images/power.png)]
 
 
 ## Reflection prompt 
@@ -290,7 +290,7 @@ Decisions on the categories and boundaries scholars use shape our:
 
 Categories are key to digital tools in many ways: the classification systems used by libraries and archives, the tags used on websites, the methods of categorization informing algorithms, and the spatial divisions on a map. The production and reproduction of these categories shapes how things/people/places, etc., are identified and grouped together, and also what is searchable, findable, and foregrounded.
 
-[![A comic from Postcolonial #DH No. 28 by Adeline Koh: "Wikipedia and the politics of gender categorization." In the image, a bunch of white men stand to the left behind a roped off area, and a bunch of people of color and women stand to the right. A white male facing the people to the right says to them, "I'm sorry, there just isn't any more space in the main wikipedia 'American Novelist' category. Maybe you could join the 'American Woman Novelist' category?"](../sections/images/wiki.png)]Image source: A comic by Adeline Koh from [#DHPoco: Postcolonial Digital Humanities](http://dhpoco.tumblr.com/), shared here with her permission.  
+[![A comic from Postcolonial #DH No. 28 by Adeline Koh: "Wikipedia and the politics of gender categorization." In the image, a bunch of white men stand to the left behind a roped off area, and a bunch of people of color and women stand to the right. A white male facing the people to the right says to them, "I'm sorry, there just isn't any more space in the main wikipedia 'American Novelist' category. Maybe you could join the 'American Woman Novelist' category?"](../images/wiki.png)]Image source: A comic by Adeline Koh from [#DHPoco: Postcolonial Digital Humanities](http://dhpoco.tumblr.com/), shared here with her permission.  
 
 ## Bias in, bias out: Systems of oppression and inputting human bias
 
@@ -298,7 +298,7 @@ Categories are key to digital tools in many ways: the classification systems use
 
 The United States, for example, is a society shaped by dominant systems of oppression such as *white supremacy*, *settler colonialism*, and *cis-hetero-patriarchy* (see the [Glossary](https://github.com/SouthernMethodistUniversity/access/blob/master/sections/continue.md#glossary) for definitions). These oppressive systems affect — sometimes intentionally, sometimes not — the decisions people make when they create digital platforms or tools (or anything for that matter!) and the parameters of what is permitted/supported/funded to be created and shared, and thus also shape the output that results from these digital platforms or tools or their computations. 
 
-> "Writing a presentation on library cataloging and classification & realizing that there is nothing serendipitous about serendipitous browsing. As with everything else, someone *decided* where the book you found on the shelf would land. Someone with biases because we all have them," (Jenna Freedman @zinelib on Twitter, shared here with her permission. Also see: [Jenna Freedman, "Library Cataloging and Classification: Reifying the Default," 2018](https://lowereastsidelibrarian.info/talks/2018/moma))  
+> "Writing a presentation on library cataloging and classification & realizing that there is nothing serendipitous about serendipitous browsing. As with everything else, someone *decided* where the book you found on the shelf would land. Someone with biases because we all have them," - Jenna Freedman @zinelib on Twitter, shared here with her permission. Also see: [Jenna Freedman, "Library Cataloging and Classification: Reifying the Default," 2018](https://lowereastsidelibrarian.info/talks/2018/moma) 
 
 > "Human beings are developing the digital platforms we use, and as I present evidence of the recklessness and lack of regard that is often shown to women and people of color in some of the output of these systems, it will become increasingly difficult for technology companies to separate their systematic and inequitable employment practices, and the far-right ideological bents of some of their employees, from the products they make for the public." (Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*, 2018, page 2; see also Meredith Broussard, *Artificial Unintelligence: How Computers Misunderstand the World*, chapter six, 2018)  
 
@@ -306,7 +306,7 @@ In the fields of Artificial Intelligence (AI) and Data Science, the phrase ["jun
 
 While decisions made by algorithms are often presented as free of the personal value judgments that a loan officer or judge might apply to loan candidates or in determining the length of a prisoner's sentence, for example, they can still reproduce the bias evident in the data the algorithm is trained on. Many scholars and activists have also critiqued the use of existing data on policing, arrests, and recidivism in algorithms that try to predict future criminal behavior. Because the data being input to the model is based on past policing practices that include the over-policing of communities of color and low-income people, that data is biased against those groups and thus will reproduce the existing bias in its predictions of future activities. For a deeper dive, you can read more in [this article](https://www.theverge.com/2016/2/3/10895804/st-louis-police-hunchlab-predictive-policing-marshall-project) (Maurice Chammah, 2016) that shows how predictive policing is *not* value-free and unbiased.  
 
-[!["A graphic with the words 'bias in' next to an arrow pointing into the left side of a box, and then another arrow pointing out of the box on the right side towards the words 'bias out'"](../sections/images/bias.png)] Image source: Created by Kelsey Chatlosh in MS PowerPoint.  
+!["A graphic with the words 'bias in' next to an arrow pointing into the left side of a box, and then another arrow pointing out of the box on the right side towards the words 'bias out'"](../images/bias.png) Image source: Created by Kelsey Chatlosh in MS PowerPoint.  
 
 [![tasks](https://imgs.xkcd.com/comics/machine_learning.png)](https://xkcd.com/1838/)
 
@@ -334,11 +334,13 @@ As scholars, we have a responsibility to think critically about how we do or do 
 - [#Charlestonsyllabus](https://www.aaihs.org/resources/charlestonsyllabus/)
 - [#TulsaSyllabus](https://tulsasyllabus.web.unc.edu/)
 - [#BuffaloSyllabus](https://buffalosyllabus.com/)
-- [Ferguson syllabus](https://sociologistsforjustice.org/ferguson-syllabus/)
+- [Ferguson syllabus](https://library.lasalle.edu/c.php?g=439814&p=2997168)
 - [The Zine Librarians Code of Ethics](http://zinelibraries.info/code-of-ethics/)  
 - [Native-Land.ca (mapping project)](https://native-land.ca/)  
 - [Invasion of America: How the United States Took Over an Eighth of the World (mapping project)](http://usg.maps.arcgis.com/apps/webappviewer/index.html?id=eb6ca76e008543a89349ff2517db47e6)
 - [Bearing Witness: The Covid-19 & Inequality History Documentation Project](https://bearingwitness.github.io/)
+- [Missing Migrants Project ](https://www.migrationdataportal.org/themes/migrant-deaths-and-disappearances)
+-[El Paso Sector Migrant Death Database](https://www.elpasomigrantdeathdatabase.org/)
 
 ## A case study.  
 
@@ -353,21 +355,21 @@ Check out the [Interference Archive (IA) website](http://interferencearchive.org
 
 ## Social, political, and economic impacts
 
-> "At a third level of impact, we can consider **the social, economic, or political changes caused** by one’s research processes or products, in both the short and long term." ([Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/), emphasis added)  
+> "At a third level of impact, we can consider **the social, economic, or political changes caused** by one’s research processes or products, in both the short and long term." [Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/), emphasis added.
 
 Reflection prompt: Some questions to consider:
 
 - Whose **labor** and what **materials** are used to make the digital tools you use? How should we (those who benefit from the labor of other people) attribute others' labor? How can we (users of these tools) be held accountable?  
 
-> "the energy demands for digital daily life, a key source of big data for social science research, are significant in this era of climate change ... should researchers take the lead in asking cloud storage providers and data processing centers to shift to sustainable and renewable energy sources?" ([Matthew Zook et al, "Ten simple rules for responsible big data research," 2017](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399))  
+> "the energy demands for digital daily life, a key source of big data for social science research, are significant in this era of climate change ... should researchers take the lead in asking cloud storage providers and data processing centers to shift to sustainable and renewable energy sources?" [Matthew Zook et al, "Ten simple rules for responsible big data research," 2017](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399)
 
 * Could your research or project be used to justify or facilitate potentially harmful **control** or **surveillance**?    
 
-> "'Lots of proprietary programs spy. Windows spies, Mac OS spies, iOS spies, Flash player spies. Thousands of apps spy on the user' ... The internet of things — well, I call it the internet of stings — it's a way that those companies can get power over more things in your life, snoop on more things in your life and have total power... 'Portable phones, every portable phone has a universal backdoor… And with the backdoor [the phone company] can convert it into a full-time listening device that can hear all the conversation in the room, even when it's not making any call, even when it’s supposed to be switched off.'" ([Factor, interview with Richard Stallman, "The Vanishing State of Privacy," 2017](http://magazine.factor-tech.com/factor_winter_2017/richard_stallman_and_the_vanishing_state_of_privacy))  
+> "'Lots of proprietary programs spy. Windows spies, Mac OS spies, iOS spies, Flash player spies. Thousands of apps spy on the user' ... The internet of things — well, I call it the internet of stings — it's a way that those companies can get power over more things in your life, snoop on more things in your life and have total power... 'Portable phones, every portable phone has a universal backdoor… And with the backdoor [the phone company] can convert it into a full-time listening device that can hear all the conversation in the room, even when it's not making any call, even when it’s supposed to be switched off.'" [Factor, interview with Richard Stallman, "The Vanishing State of Privacy," 2017](http://magazine.factor-tech.com/factor_winter_2017/richard_stallman_and_the_vanishing_state_of_privacy)  
 
-> [Even more so now] "In a post 9/11 world, the U. S. government utilizes computer technology to exert some degree of control over its citizens, rather than protect their privacy... [Also,] internet software can be used as parasocietal mechanisms for the observation of online interactions. Online social networks allow for high levels of surveillance. In addition to marketers, college officials and parents can access social networking sites. Students may think that their Facebook or MySpace journal entries are private but they are actually public diaries." ([Susan Barnes, “A Privacy Paradox,” 2006](http://firstmonday.org/article/view/1394/1312))   
+> [Even more so now] "In a post 9/11 world, the U. S. government utilizes computer technology to exert some degree of control over its citizens, rather than protect their privacy... [Also,] internet software can be used as parasocietal mechanisms for the observation of online interactions. Online social networks allow for high levels of surveillance. In addition to marketers, college officials and parents can access social networking sites. Students may think that their Facebook or MySpace journal entries are private but they are actually public diaries." [Susan Barnes, “A Privacy Paradox,” 2006](https://firstmonday.org/ojs/index.php/fm/article/view/1394/1312)   
 
-> "Other cases show that 'public' datasets are easily adapted for highly invasive research by incorporating other data, such as Hague et al.’s use of property records and geographic profiling techniques to allegedly identify the pseudonymous artist Banksy" ([Matthew Zook et al, "Ten simple rules for responsible big data research," 2017](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399))  
+> "Other cases show that 'public' datasets are easily adapted for highly invasive research by incorporating other data, such as Hague et al.’s use of property records and geographic profiling techniques to allegedly identify the pseudonymous artist Banksy" [Matthew Zook et al, "Ten simple rules for responsible big data research," 2017](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399)
 
 * Could it influence **social or political discourse**? Modes of **profit**?
 
@@ -382,7 +384,7 @@ As Annette Markham reminds us, as discussed earlier in this session:
 > "an impact approach is targeted toward the possible or probable impact, rather than the prevention of impact in the first place. It acknowledges that we change the world as we conduct even the smallest of scientific studies, and therefore, we must take some personal responsibility for our methods." ([Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/))  
 
 
-[![close-up photo of a drop of water falling into a pool of water, creating a series of concentric ripples](../sections/images/ripple.jpg)](https://commons.wikimedia.org/wiki/File:Ripple_effect_on_water.jp)
+[![close-up photo of a drop of water falling into a pool of water, creating a series of concentric ripples](../images/ripple.jpg)](https://commons.wikimedia.org/wiki/File:Ripple_effect_on_water.jp)
 Image source: [Sergiu Bacioiu from Romania, "Ripple effect on water," Wikimedia, Creative Commons Attribution 2.0 Generic license](https://commons.wikimedia.org/wiki/File:Ripple_effect_on_water.jpg)  
 
 Further readings:  
@@ -499,7 +501,7 @@ Questions to consider:
 - Would you consider making any data related to your project publicly accessible? (And would this raise any anonymity, confidentiality or other ethical concerns?)
 
 A note on "free software" and user control from Richard Stallman:  
-> "According to Stallman, for software to qualify as free it must provide what he describes as 'four essential freedoms'. 'Freedom zero is to run the program however you wish, for whatever purpose you have. Freedom one is the freedom to study and change the source code’ … These two freedoms allows users to individually control their own copies of software, and tailor it to their needs, however … 'Collective control is the way that non-programmers can participate deciding what the program can do,' he explains. 'It requires two more freedoms: freedom two is to make exact unmodified copies and give or sell them to others when you wish. And freedom three is to make copies of your modified versions and give or sell them to others when you wish. So when the program carries these four freedoms, the users control it, it respects their freedom, that's free software. But if one of these freedoms is missing or incomplete, then the program controls the users and the proprietor controls the program'" ([Factor, interview with Richard Stallman, "The Vanishing State of Privacy," 2017](http://magazine.factor-tech.com/factor_winter_2017/richard_stallman_and_the_vanishing_state_of_privacy))  
+> "According to Stallman, for software to qualify as free it must provide what he describes as 'four essential freedoms'. 'Freedom zero is to run the program however you wish, for whatever purpose you have. Freedom one is the freedom to study and change the source code’ … These two freedoms allows users to individually control their own copies of software, and tailor it to their needs, however … 'Collective control is the way that non-programmers can participate deciding what the program can do,' he explains. 'It requires two more freedoms: freedom two is to make exact unmodified copies and give or sell them to others when you wish. And freedom three is to make copies of your modified versions and give or sell them to others when you wish. So when the program carries these four freedoms, the users control it, it respects their freedom, that's free software. But if one of these freedoms is missing or incomplete, then the program controls the users and the proprietor controls the program'" [Factor, interview with Richard Stallman, "The Vanishing State of Privacy," 2017](http://magazine.factor-tech.com/factor_winter_2017/richard_stallman_and_the_vanishing_state_of_privacy)
 
 Sources to check out:
 
@@ -512,13 +514,13 @@ Thinking of accessibility here in terms of making tools, projects, writing, or d
 
 > "I have increasingly come to wonder if “permission-less-ness” as many in “open” movements have theorized this, is built on some unexamined exploitation and extraction of labor – on invisible work, on unvalued work. Whose digital utopia does “openness” represent?" ([Audrey Watters, "Invisible Labor and Digital Utopias," 2018](http://hackeducation.com/2018/05/04/cuny-labor-open))  
 
-> "Guard against the re-identification of your data. Practice ethical data sharing." ([Matthew Zook et al, "Ten simple rules for responsible big data research," 2017 (rules 3 and 4)](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399))  
+> "Guard against the re-identification of your data. Practice ethical data sharing." [Matthew Zook et al, "Ten simple rules for responsible big data research," 2017 (rules 3 and 4)](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399)  
 
 When might researchers or makers decide *not* to even record data or media, or to delete?    
 
-> "Just because we can record everything doesn’t mean that we as scholars must or should record everything... At some level, all forms of recording (writing, audio, video, photo) must be evaluated for how they distribute burdens of risk and objectification." ([Roshanak Kheshti, interviewed by Kelsey Chatlosh, "Interview: Sound recording, oral positionality, and audio as ethnographic object," 2018](http://parameters.ssrc.org/2018/04/interview-sound-recording-oral-positionality-and-audio-as-ethnographic-object/))  
+> "Just because we can record everything doesn’t mean that we as scholars must or should record everything... At some level, all forms of recording (writing, audio, video, photo) must be evaluated for how they distribute burdens of risk and objectification." [Roshanak Kheshti, interviewed by Kelsey Chatlosh, "Interview: Sound recording, oral positionality, and audio as ethnographic object," 2018](http://parameters.ssrc.org/2018/04/interview-sound-recording-oral-positionality-and-audio-as-ethnographic-object/))
 
-> "As we celebrate enhancements to the discovery of and access to our online oral history collections, we need to carefully reflect on and consider the consequences of providing immediate and widespread access to oral history interviews... No matter what the topic, oral history interviews can contain a massive amount of personal information posing a wide range of potential risks to the narrator, but also to the archive." ([Doug Boyd, "Informed Accessioning: Questions to Ask After the Interview," 2015](http://ohda.matrix.msu.edu/2015/03/informed-accessioning-questions-to-ask-after-the-interview/))  
+> "As we celebrate enhancements to the discovery of and access to our online oral history collections, we need to carefully reflect on and consider the consequences of providing immediate and widespread access to oral history interviews... No matter what the topic, oral history interviews can contain a massive amount of personal information posing a wide range of potential risks to the narrator, but also to the archive." [Doug Boyd, "Informed Accessioning: Questions to Ask After the Interview," 2015](http://ohda.matrix.msu.edu/2015/03/informed-accessioning-questions-to-ask-after-the-interview/)
 
 ## Reflection prompt  
 
