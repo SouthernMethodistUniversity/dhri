@@ -44,7 +44,7 @@ None of those things can happen without a plan. If you walk out those doors toda
 ## Short project proposal (2-3 pages)
 
 * If you are planning a long-term project at scale, or across multiple departments, something more robust like a MOU would be recommended. 
-    * [MOU slides](https://github.com/pow123/mouworkshop) 
+    * [MOU slides](https://pow123.github.io/mouworkshop/#/) <!--(https://github.com/pow123/mouworkshop) -->
     * [MOU handbook](https://rc.library.uta.edu/uta-ir/handle/10106/25646)
 
 **Template:** What follows is a template for writing a short project proposal that, once developed, will position you to move forward with building partnerships with other institutions or for pursuing funding opportunities. Though this template does not directly reflect a specific grant narrative format, the short project proposal includes important project-development steps that can later form the basis for a wide variety of grant narratives.
@@ -249,8 +249,8 @@ Some examples of places to look include:
 
 * DH
     * [DHQ](http://digitalhumanities.org/dhq/)
-    * [List of additional DH journals](https://digitalhumanities.berkeley.edu/resources/digital-humanities-journals)
-    * [DiRT registry of digital humanities tools (Note: Last updated 2015)](https://digitalhumanities.berkeley.edu/resources/digital-research-tools-dirt-directory) 
+    * [List of additional DH journals](https://live-digital-humanities-berkeley.pantheon.berkeley.edu/resources/digital-humanities-journals)
+    * [DiRT registry of digital humanities tools (Note: Last updated 2015)](https://live-digital-humanities-berkeley.pantheon.berkeley.edu/resources/digital-research-tools-dirt-directory) 
 * GLAMS
     * [The Signal: Digital Preservation](http://blogs.loc.gov/digitalpreservation/)
     * [Curator Journal](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2151-6952)
