@@ -24,12 +24,12 @@
    * How did it change as the project was worked on? Whose labor was necessary for the project to be successful?  
    * Which of those are made visible or acknowledged in the final?
 
-    **In our first synchronous session, we are going to take some of the questions raised in *How did they make that?* and look at some DH projects to see if we can tell how *did* they make that?  What choices did they make? Why do we think they made those choices?**
+    **In our first session, we are going to take some of the questions raised in *How did they make that?* and look at some DH projects to see if we can tell how *did* they make that?  What choices did they make? Why do we think they made those choices?**
  
 
 # The following is what we will do in our synchronous session 
 
-# Introductions 
+## Introductions 
 * Draw your interests/area of study. We will go around the room and share. We will revisit this drawing throughout the week.
 
 
@@ -125,7 +125,7 @@ Like reading a bibliography:
   * "Threshold concepts represent information previously not known by the learner, and once a person learns and understands that information, it permanently and drastically changes their perception of the topic." [(Meyer, Land & Baillie, 2010)](https://acrl.ala.org/dh/2020/06/22/data-literacy-as-digital-humanities-literacy-exploration-of-threshold-concepts/)  
 ## **[Technological Pedagogical and Content Knowledge (TPACK)](http://cristurple.blogspot.com/p/tpack.html)**
 
-[![tpack](../sections/images/tpack.jpg)](http://cristurple.blogspot.com/p/tpack.html)
+[![tpack](../images/tpack.jpg)](http://cristurple.blogspot.com/p/tpack.html)
 
 ## Group work & project planning
 ### Project planning models 
@@ -142,7 +142,7 @@ Like reading a bibliography:
 # How did they do *this* specific project? 
 * ***We will be discussing this page in our synchronous meeting. You do not need to engage with this page before the synchronous session.***
 * What does a project site tell you about *how* it was done? 
-* [Activity handout](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/handouts/evaluate_handout.pdf)
+* [Activity handout](https://github.com/SouthernMethodistUniversity/dhri/blob/main/files/how-handout.pdf)
 * [How did they make that handout](https://github.com/SouthernMethodistUniversity/dhri/blob/main/files/how-handout.pdf)  
  * "Many students tell me that in order to get started with digital humanities, they’d like to have some idea of what they might do and what technical skills they might need in order to do it." [by Miriam Posner](http://miriamposner.com/blog/how-did-they-make-that/)
 

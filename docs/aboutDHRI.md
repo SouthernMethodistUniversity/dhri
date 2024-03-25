@@ -12,13 +12,13 @@
   * [What Is the Internet? YouTube](https://www.youtube.com/watch?v=Dxcc6ycZ73M&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7) [Watch all 8 short videos.] 
       * [Same series at Kahn Academy](https://www.khanacademy.org/computing/code-org/computers-and-the-internet#how-computers-work). 
 
-## Process for DHRI
-# What you can expect 
+# Process for DHRI
+## What you can expect 
 * You will sit in groups at tables, We want to to work together to come to solutions and build a community of practice. 
-- [A better way to teach technical skills to a group](http://miriamposner.com/blog/a-better-way-to-teach-technical-skills-to-a-group/)
-* As you are reading, we you will see two categories of activities:
+    - [A better way to teach technical skills to a group](http://miriamposner.com/blog/a-better-way-to-teach-technical-skills-to-a-group/)
+<!---* As you are reading, we you will see two categories of activities:
       * **Pre-session activities (PSA)**  Please make sure you do these activities/read this content before a session. Some questions have corresponding Tems channels or discussion, others are just marked so you are thinking about them beforehand as they are topics we will be discussing in the synchronous session.  
-      * **In session activities (ISA)**  This indicates a page that has activities/content we will go over together; you do not need to engage with this content ahead of time. 
+      * **In session activities (ISA)**  This indicates a page that has activities/content we will go over together; you do not need to engage with this content ahead of time. -->
 * As you [read each session](https://southernmethodistuniversity.github.io/dhri/index.html) please put questions/comments in the Teams channel. 
 * If text appears blue in a repository, that just means it is a hyperlink.
     * These repositories are structured in such a way that they will direct our conversations during the institute, but also so that you can return to them later to review the material. 
@@ -43,14 +43,14 @@ By the end of the week, attendees will not be digital humanities experts, but th
 If you have any questions about this page, contact [Rafia](https://guides.smu.edu/prf.php?account_id=142826).
 
 ## Location: In person, SMU campus 
-*  specfic locations: TBD
+*  SMU Campus, [Ford Hall](https://map.smu.edu/?id=1914#!m/668604), Room 124 (Data Visualizations Lab).
 
 ## Schedule
- * [Schedule](https://github.com/SouthernMethodistUniversity/dhri/blob/main/sections/schedule.pdf)
+ * [Schedule](https://github.com/SouthernMethodistUniversity/dhri/blob/main/files/schedule.pdf)
  * All times listed are CDT (Central Daylight Time).
 
 # Introduction of our DHRI@SMU 2024 cohort
- **We will begin this discussion in Slack and continue in our first synchronous session.**
+ **We will begin this discussion in Teams and continue in our first synchronous session.**
 * Introductions (full group)
     * What are your interests/areas of study?  
     * What are you interested in learning? 
@@ -108,7 +108,8 @@ While these results are desirable, we find that students who know how to use the
 
 * ***Introductions to communities of practice and what is Digital Humanities?*** How do you determine what kinds of DH you want to do, and what skills does that type of DH require in terms of your skill building *or* what partners do you then need to seek out? No DH project is an island! (Unless maybe it is a veeeeeeery small island.) 
 
-* **Data literacies.** ["Data literacy includes statistical literacy but also understanding how to work with large data sets, how they were produced, how to connect various data sets and how to interpret them.”](http://datajournalismhandbook.org/1.0/en/understanding_data_0.html) When we talk about data in the humanities, what do we mean? Big? Smart? Clean? Messy? 
+* **Data literacies.** ["Data literacy includes statistical literacy but also understanding how to work with large data sets, how they were produced, how to connect various data sets and how to interpret them.”](http://datajournalismhandbook.org/1.0/en/understanding_data_0.html)
+*When we talk about data in the humanities, what do we mean? Big? Smart? Clean? Messy?* 
 
 * **Coding is an introduction to the structure of computers, text editors and their logic.**     
     * Introduces conceptualization/helps to understand directory structure. 
