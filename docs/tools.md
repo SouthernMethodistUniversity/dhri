@@ -154,7 +154,7 @@ Watch the video *or* read the text of this talk *"It Doesn't Work:" Failure and 
 * "But let’s first talk about DH tools, and the ways they "don’t work." One thing I’ve learned, over my years of doing direct end-user support, is that — what it is that “doesn’t work” often depends on your perspective." 
 * "Navigating technical documentation, and instructions not written with your particular perspective in mind, are skills you develop over time."  
     * ["It Doesn't Work:" Failure and DH Tools *(video)*](https://univr.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2b012f49-5821-411f-bbb3-abf800f3eb54)
-    * ["It Doesn't Work:" Failure and DH Tools *(text)*](https://quinndombrowski.com/blog/2020/07/21/it-doesnt-work-failure-and-dh-tools/
+    * ["It Doesn't Work:" Failure and DH Tools *(text)*](https://quinndombrowski.com/blog/2020/07/21/it-doesnt-work-failure-and-dh-tools/)
 
 ###  We will be using the frameworks from Nowviskie & Dombrowski to frame our synchronous discussion on how to search for tools.
 
