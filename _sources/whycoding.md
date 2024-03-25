@@ -1,7 +1,7 @@
 # Coding 
 
-# Computing  
-Understanding computing: This session is to familiarize you wth important foundational concepts and to give you a framework for understanding the types of computational methods you can use on a projects, including: minimal computing, tool choice or coding.  Finally, this session aims to give you language to conceptualize what is possible and to communicate more effectively with partners. 
+## Understanding computing
+This session is to familiarize you wth important foundational concepts and to give you a framework for understanding the types of computational methods you can use on a projects, including: minimal computing, tool choice or coding.  Finally, this session aims to give you language to conceptualize what is possible and to communicate more effectively with partners. 
 
 * Understanding the affordances and limitations of a computational approach for your project will help you better imagine, plan manage your project. Even if you are not directly involved in the coding aspect, this will give you the tools to better collaborate with those who will.
 
@@ -34,12 +34,18 @@ Understanding computing: This session is to familiarize you wth important founda
 * The applications on your device can access the resources in your machine. Each local environment becomes different with use. 
 * The [kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system)) connects the application software to the hardware of a computer.
 
-[![kernel](../sections/images/kernel.png)](https://en.wikipedia.org/wiki/File:Kernel_Layout.svg)
+[![kernel](../images/kernel.png)](https://en.wikipedia.org/wiki/File:Kernel_Layout.svg)
 
 * Local installations give you more control, and more power, but the pedagogical tradeoff is that it is more difficult to manage and configure during class. Installation is dependent on type of device. 
 
 * The process of installing and learning how to work on your computer encourages more active troubleshooting as well, which is a useful long-term skill.
 
+### Installing software
+- Requires [Administrative permissions](https://www.smu.edu/oit/services/make-me-admin#:~:text=Administrative%20privileges%20may%20be%20required,web%20carries%20an%20increased%20risk.)
+- Learning to install software
+- Learning how to install software is an important part of the process of gaining computational literacy and learning how the programs we use work. 
+- [Basics of Software Installation](https://www.codecademy.com/article/basics-of-software-installation)
+- [Understanding Applications](https://edu.gcfglobal.org/en/computerbasics/understanding-applications/1/)
 
 ## Virtual environments
 
@@ -60,14 +66,14 @@ Singularity and Docker are popular toolsets used to create and manage containers
 
 Virtual environments have high variability.
 
- They can run a single piece of software or OS with suites of software. When you are considering using a virtual envorinment, in addition to what it is capable of doing, you should consider the following: portability (ease of set up ), reproducibility (its' capabilities and consistency of experience) and isolation (if you working in shared envorinment and your work needs to be sequestered.
+ They can run a single piece of software or OS with suites of software. When you are considering using a virtual envorinment, in addition to what it is capable of doing, you should consider the following: portability (ease of set up), reproducibility (its' capabilities and consistency of experience) and isolation (if you working in shared envorinment and your work needs to be sequestered.
 
 The advantages of containers for for [classroom projects](https://digitalfellows.commons.gc.cuny.edu/2016/11/15/docker-in-the-classroom-creating-a-virtual-environment-for-instruction/) are:
   * you want all students to be using the same environment, without worrying about different operating systems (OS) and [individual installations](https://sorrelharriet.medium.com/docker-in-the-classroom-part-1-3d86fea9160c)
 - Portability 
   *  You may not have access to an HPC
 
-* There are additional types of computing environments listed [here](https://www.geeksforgeeks.org/computing-environments/))
+* There are additional types of computing environments listed [here](https://www.geeksforgeeks.org/computing-environments/)
 
 
 ## The "Cloud"
@@ -115,7 +121,7 @@ What if all these cool possibilities seem a bit abstract to you right now? That'
 
 By this point in our academic careers, most of us have figured out some ways we like to interact with computers. Whether that involves avoiding them as much as possible or constantly testing new software, we likely have some ideas about how we feel comfortable getting things done. How would you show a person who had never seen a computer, say [Kimmy Schmidt](https://youtu.be/LIdFa1qLgNQ) or [Brendan Fraser in *Blast from the Past*](https://youtu.be/Xq29uTtKW4M), how to *do* something on your computer? 
 
-Many of us would explain what a screen and a cursor are, and then show how to point and click on icons. This approach relies on athe  graphical user interface, or GUI (pronounced "gooey!"). 
+Many of us would explain what a screen and a cursor are, and then show how to point and click on icons. This approach relies on the  graphical user interface, or GUI (pronounced "gooey!"). 
 
 Another way to make your computer do things: through the command line. Instead of pointing and clicking, we'll be typing in either Git bash (Windows) or terminal (OSX) to tell the computer directly what task we'd like it to perform. 
 
@@ -176,12 +182,12 @@ We want to give a general sense of this "text" we keep mentioning. Theire is wha
 
 As scholars working with computers, **we need to be aware of the ways plain text and formatted text differ.** Words on a screen may have hidden formatting. Many of us grew up using Microsoft Word and don't realize how much is going on behind the words shown on the screen. For the purposes of communicating with the computer and for easier movement between different programs, we need to use text without hidden formatting.
 
-![Word Doc](../sections/images/worddoc.png)
+![Word Doc](../images/worddoc.png)
 
 
 If you ask the command line to read that file, this Word .docx file will look something like this
 
-![Cat Word Doc](../sections/images/CatWordDoc.png)
+![Cat Word Doc](../images/CatWordDoc.png)
 
 Word documents which look like "just words!" are actually comprised of an archive of extensible markup language (XML) instructions that only Microsoft Word can read. Plain text files can be opened in a number of different editors and can be read within the command line.
 
@@ -222,7 +228,7 @@ When it comes to editing text and writing code, you can use either a text editor
 # What does this all mean? Why are we telling you all this? 
 
 * This is useful contextual information for you if you choose to go forward with learning programming. This is also set up for our Python session.
-
+<!---
 * For this Institute, we have chosen to do our computing workshop using a cloud based environment: [ManeFrame II](https://www.smu.edu/OIT/Services/HPC). You will be set up with [M II HPRC (ManeFrame II: High-Performance Research Computing) accounts](https://www.smu.edu/OIT/Services/HPC), where we will use notebooks. 
 
 Advantages of using an cloud based M II account:
@@ -238,7 +244,7 @@ Advantages cloud-based notebooks give instructors:
 - Reproducible and sharable
 - Less reliant on strength of computer.
 - You may also see references to [Jupyter notebooks](https://jupyter.org/) in other digital humanities workshops.  
-- We are choosing for the sake of pedagogy and time to skip local installation. However, if you want to learn to code, you may want to installing a virtual envorinment with the porgramming language you want to learn and an IDE. 
+- We are choosing for the sake of pedagogy and time to skip local installation. However, if you want to learn to code, you may want to installing a virtual envorinment with the porgramming language you want to learn and an IDE. --->
 
 ### Jupyter Notebooks
 * If you are unfamiliar with Jupyter Notebooks, take a look at one of these introductory lessons.
@@ -246,8 +252,8 @@ Advantages cloud-based notebooks give instructors:
   * Description: This lesson introduces Jupyter notebooks and Python for absolute beginners. If you are completely new to text analysis, this is the place to start.
 * [Introduction to Jupyter Notebooks - Programming Historian](https://programminghistorian.org/en/lessons/jupyter-notebooks)
 
-<!--* When doing an introductory coding workshop, instructors choose between using the local environment, virtual environment a cloud-based environment. There are good pedagogical reasons for each choice. 
-[Cloud-based Versus Local-Based Web Development Education: An Experimental Study in Learning Experience.](https://files.eric.ed.gov/fulltext/EJ1144677.pdf)-->
+When doing an introductory coding workshop, instructors choose between using the local environment, virtual environment a cloud-based environment. There are good pedagogical reasons for each choice. 
+[Cloud-based Versus Local-Based Web Development Education: An Experimental Study in Learning Experience.](https://files.eric.ed.gov/fulltext/EJ1144677.pdf)
 
 
 <!--

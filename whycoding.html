@@ -209,7 +209,6 @@ const thebe_selector_output = ".output, .cell_output"
 
 
 
-
 <li class="toctree-l1"><a class="reference internal" href="python.html">Python for Text Mining</a></li>
 <li class="toctree-l1"><a class="reference internal" href="data2.html">Data, Part 2</a></li>
 
@@ -440,8 +439,10 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Coding</a></li>
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#computing">Computing</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Coding</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#understanding-computing">Understanding computing</a></li>
+</ul>
+</li>
 <li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#computers-the-internet">Computers &amp; The Internet</a><ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-is-a-computer">What is a computer?</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-computational-skills-are-necessary-for-your-goals">What computational skills are necessary for your goals?</a></li>
@@ -449,7 +450,10 @@ document.write(`
 </li>
 <li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#computing-environment">Computing Environment</a><ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-is-your-environment">What is your environment?</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#local-environments">Local environments</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#local-environments">Local environments</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#installing-software">Installing software</a></li>
+</ul>
+</li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#virtual-environments">Virtual environments</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-cloud">The “Cloud”</a></li>
 </ul>
@@ -513,13 +517,13 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="coding">
 <h1>Coding<a class="headerlink" href="#coding" title="Permalink to this heading">#</a></h1>
-</section>
-<section class="tex2jax_ignore mathjax_ignore" id="computing">
-<h1>Computing<a class="headerlink" href="#computing" title="Permalink to this heading">#</a></h1>
-<p>Understanding computing: This session is to familiarize you wth important foundational concepts and to give you a framework for understanding the types of computational methods you can use on a projects, including: minimal computing, tool choice or coding.  Finally, this session aims to give you language to conceptualize what is possible and to communicate more effectively with partners.</p>
+<section id="understanding-computing">
+<h2>Understanding computing<a class="headerlink" href="#understanding-computing" title="Permalink to this heading">#</a></h2>
+<p>This session is to familiarize you wth important foundational concepts and to give you a framework for understanding the types of computational methods you can use on a projects, including: minimal computing, tool choice or coding.  Finally, this session aims to give you language to conceptualize what is possible and to communicate more effectively with partners.</p>
 <ul class="simple">
 <li><p>Understanding the affordances and limitations of a computational approach for your project will help you better imagine, plan manage your project. Even if you are not directly involved in the coding aspect, this will give you the tools to better collaborate with those who will.</p></li>
 </ul>
+</section>
 </section>
 <section class="tex2jax_ignore mathjax_ignore" id="computers-the-internet">
 <h1>Computers &amp; The Internet<a class="headerlink" href="#computers-the-internet" title="Permalink to this heading">#</a></h1>
@@ -572,11 +576,21 @@ document.write(`
 <li><p>The applications on your device can access the resources in your machine. Each local environment becomes different with use.</p></li>
 <li><p>The <a class="reference external" href="https://en.wikipedia.org/wiki/Kernel_(operating_system)">kernel</a> connects the application software to the hardware of a computer.</p></li>
 </ul>
-<p><a class="reference external" href="https://en.wikipedia.org/wiki/File:Kernel_Layout.svg"><img alt="kernel" src="../sections/images/kernel.png" /></a></p>
+<p><a class="reference external" href="https://en.wikipedia.org/wiki/File:Kernel_Layout.svg"><img alt="kernel" src="_images/kernel.png" /></a></p>
 <ul class="simple">
 <li><p>Local installations give you more control, and more power, but the pedagogical tradeoff is that it is more difficult to manage and configure during class. Installation is dependent on type of device.</p></li>
 <li><p>The process of installing and learning how to work on your computer encourages more active troubleshooting as well, which is a useful long-term skill.</p></li>
 </ul>
+<section id="installing-software">
+<h3>Installing software<a class="headerlink" href="#installing-software" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Requires <a class="reference external" href="https://www.smu.edu/oit/services/make-me-admin#:~:text=Administrative%20privileges%20may%20be%20required,web%20carries%20an%20increased%20risk.">Administrative permissions</a></p></li>
+<li><p>Learning to install software</p></li>
+<li><p>Learning how to install software is an important part of the process of gaining computational literacy and learning how the programs we use work.</p></li>
+<li><p><a class="reference external" href="https://www.codecademy.com/article/basics-of-software-installation">Basics of Software Installation</a></p></li>
+<li><p><a class="reference external" href="https://edu.gcfglobal.org/en/computerbasics/understanding-applications/1/">Understanding Applications</a></p></li>
+</ul>
+</section>
 </section>
 <section id="virtual-environments">
 <h2>Virtual environments<a class="headerlink" href="#virtual-environments" title="Permalink to this heading">#</a></h2>
@@ -594,7 +608,7 @@ This is contrasted with virtual machines that provide a virtualized hardware env
 
 Singularity and Docker are popular toolsets used to create and manage containers on Linux. For security reasons, Docker is not usually allowed on HPC systems and this includes M2. M2 does have Singularity, which is largely compatible with Docker containers. -[Explanation from: Creating Portable Environments with Singularity and Docker.](https://github.com/SouthernMethodistUniversity/singularity_docker)---> 
 <p>Virtual environments have high variability.</p>
-<p>They can run a single piece of software or OS with suites of software. When you are considering using a virtual envorinment, in addition to what it is capable of doing, you should consider the following: portability (ease of set up ), reproducibility (its’ capabilities and consistency of experience) and isolation (if you working in shared envorinment and your work needs to be sequestered.</p>
+<p>They can run a single piece of software or OS with suites of software. When you are considering using a virtual envorinment, in addition to what it is capable of doing, you should consider the following: portability (ease of set up), reproducibility (its’ capabilities and consistency of experience) and isolation (if you working in shared envorinment and your work needs to be sequestered.</p>
 <p>The advantages of containers for for <a class="reference external" href="https://digitalfellows.commons.gc.cuny.edu/2016/11/15/docker-in-the-classroom-creating-a-virtual-environment-for-instruction/">classroom projects</a> are:</p>
 <ul class="simple">
 <li><p>you want all students to be using the same environment, without worrying about different operating systems (OS) and <a class="reference external" href="https://sorrelharriet.medium.com/docker-in-the-classroom-part-1-3d86fea9160c">individual installations</a></p></li>
@@ -607,7 +621,7 @@ Singularity and Docker are popular toolsets used to create and manage containers
 </li>
 </ul>
 <ul class="simple">
-<li><p>There are additional types of computing environments listed <a class="reference external" href="https://www.geeksforgeeks.org/computing-environments/">here</a>)</p></li>
+<li><p>There are additional types of computing environments listed <a class="reference external" href="https://www.geeksforgeeks.org/computing-environments/">here</a></p></li>
 </ul>
 </section>
 <section id="the-cloud">
@@ -659,7 +673,7 @@ Singularity and Docker are popular toolsets used to create and manage containers
 <section id="introduction-to-the-command-line">
 <h2>Introduction to the command line<a class="headerlink" href="#introduction-to-the-command-line" title="Permalink to this heading">#</a></h2>
 <p>By this point in our academic careers, most of us have figured out some ways we like to interact with computers. Whether that involves avoiding them as much as possible or constantly testing new software, we likely have some ideas about how we feel comfortable getting things done. How would you show a person who had never seen a computer, say <a class="reference external" href="https://youtu.be/LIdFa1qLgNQ">Kimmy Schmidt</a> or <a class="reference external" href="https://youtu.be/Xq29uTtKW4M">Brendan Fraser in <em>Blast from the Past</em></a>, how to <em>do</em> something on your computer?</p>
-<p>Many of us would explain what a screen and a cursor are, and then show how to point and click on icons. This approach relies on athe  graphical user interface, or GUI (pronounced “gooey!”).</p>
+<p>Many of us would explain what a screen and a cursor are, and then show how to point and click on icons. This approach relies on the  graphical user interface, or GUI (pronounced “gooey!”).</p>
 <p>Another way to make your computer do things: through the command line. Instead of pointing and clicking, we’ll be typing in either Git bash (Windows) or terminal (OSX) to tell the computer directly what task we’d like it to perform.</p>
 <ul class="simple">
 <li><p>Here is an external <a class="reference external" href="https://ryanstutorials.net/linuxtutorial/">command line tutorial</a> if you wish to learn more.</p></li>
@@ -745,9 +759,9 @@ Singularity and Docker are popular toolsets used to create and manage containers
 <li><p>For those of us in the humanities, whether we follow literary theorists who read any object as a “text,” or we dive into philology, paleography, codicology or any of the fields <a class="reference external" href="https://en.wikipedia.org/wiki/David_Greetham_(textual_scholar)">David Greetham</a> lays out in <em>Textual Scholarship</em>, “text” has its specific meanings.</p></li>
 </ul>
 <p>As scholars working with computers, <strong>we need to be aware of the ways plain text and formatted text differ.</strong> Words on a screen may have hidden formatting. Many of us grew up using Microsoft Word and don’t realize how much is going on behind the words shown on the screen. For the purposes of communicating with the computer and for easier movement between different programs, we need to use text without hidden formatting.</p>
-<p><img alt="Word Doc" src="../sections/images/worddoc.png" /></p>
+<p><img alt="Word Doc" src="_images/worddoc.png" /></p>
 <p>If you ask the command line to read that file, this Word .docx file will look something like this</p>
-<p><img alt="Cat Word Doc" src="../sections/images/CatWordDoc.png" /></p>
+<p><img alt="Cat Word Doc" src="_images/CatWordDoc.png" /></p>
 <p>Word documents which look like “just words!” are actually comprised of an archive of extensible markup language (XML) instructions that only Microsoft Word can read. Plain text files can be opened in a number of different editors and can be read within the command line.</p>
 </section>
 <section id="plain-text">
@@ -790,25 +804,24 @@ Singularity and Docker are popular toolsets used to create and manage containers
 <h1>What does this all mean? Why are we telling you all this?<a class="headerlink" href="#what-does-this-all-mean-why-are-we-telling-you-all-this" title="Permalink to this heading">#</a></h1>
 <ul class="simple">
 <li><p>This is useful contextual information for you if you choose to go forward with learning programming. This is also set up for our Python session.</p></li>
-<li><p>For this Institute, we have chosen to do our computing workshop using a cloud based environment: <a class="reference external" href="https://www.smu.edu/OIT/Services/HPC">ManeFrame II</a>. You will be set up with <a class="reference external" href="https://www.smu.edu/OIT/Services/HPC">M II HPRC (ManeFrame II: High-Performance Research Computing) accounts</a>, where we will use notebooks.</p></li>
 </ul>
-<p>Advantages of using an cloud based M II account:</p>
-<ul class="simple">
-<li><p>M II is already set up to work well on any device, and it will have software pre-installed accessible via Internet.</p></li>
-<li><p>Ownership and group access (access is contingent upon association with SMU).</p></li>
-<li><p>You don’t have to install any software on your own computer.</p></li>
-<li><p>Cloud-based notebooks</p></li>
-</ul>
-<p>Advantages cloud-based notebooks give instructors:</p>
-<ul class="simple">
-<li><p>More control on what we give access to for participants.</p></li>
-<li><p>Can create structured projects for participants.</p></li>
-<li><p>Versions are more controlled compared to installed versions.</p></li>
-<li><p>Reproducible and sharable</p></li>
-<li><p>Less reliant on strength of computer.</p></li>
-<li><p>You may also see references to <a class="reference external" href="https://jupyter.org/">Jupyter notebooks</a> in other digital humanities workshops.</p></li>
-<li><p>We are choosing for the sake of pedagogy and time to skip local installation. However, if you want to learn to code, you may want to installing a virtual envorinment with the porgramming language you want to learn and an IDE.</p></li>
-</ul>
+<!---
+* For this Institute, we have chosen to do our computing workshop using a cloud based environment: [ManeFrame II](https://www.smu.edu/OIT/Services/HPC). You will be set up with [M II HPRC (ManeFrame II: High-Performance Research Computing) accounts](https://www.smu.edu/OIT/Services/HPC), where we will use notebooks. 
+
+Advantages of using an cloud based M II account:
+- M II is already set up to work well on any device, and it will have software pre-installed accessible via Internet.
+- Ownership and group access (access is contingent upon association with SMU).
+- You don’t have to install any software on your own computer.
+ - Cloud-based notebooks
+
+Advantages cloud-based notebooks give instructors: 
+- More control on what we give access to for participants.
+- Can create structured projects for participants.
+- Versions are more controlled compared to installed versions.
+- Reproducible and sharable
+- Less reliant on strength of computer.
+- You may also see references to [Jupyter notebooks](https://jupyter.org/) in other digital humanities workshops.  
+- We are choosing for the sake of pedagogy and time to skip local installation. However, if you want to learn to code, you may want to installing a virtual envorinment with the porgramming language you want to learn and an IDE. --->
 <section id="jupyter-notebooks">
 <h2>Jupyter Notebooks<a class="headerlink" href="#jupyter-notebooks" title="Permalink to this heading">#</a></h2>
 <ul class="simple">
@@ -820,8 +833,8 @@ Singularity and Docker are popular toolsets used to create and manage containers
 </li>
 <li><p><a class="reference external" href="https://programminghistorian.org/en/lessons/jupyter-notebooks">Introduction to Jupyter Notebooks - Programming Historian</a></p></li>
 </ul>
-<!--* When doing an introductory coding workshop, instructors choose between using the local environment, virtual environment a cloud-based environment. There are good pedagogical reasons for each choice. 
-[Cloud-based Versus Local-Based Web Development Education: An Experimental Study in Learning Experience.](https://files.eric.ed.gov/fulltext/EJ1144677.pdf)-->
+<p>When doing an introductory coding workshop, instructors choose between using the local environment, virtual environment a cloud-based environment. There are good pedagogical reasons for each choice.
+<a class="reference external" href="https://files.eric.ed.gov/fulltext/EJ1144677.pdf">Cloud-based Versus Local-Based Web Development Education: An Experimental Study in Learning Experience.</a></p>
 <!--
 ## Summary
 
@@ -1009,8 +1022,10 @@ Singularity and Docker are popular toolsets used to create and manage containers
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Coding</a></li>
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#computing">Computing</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Coding</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#understanding-computing">Understanding computing</a></li>
+</ul>
+</li>
 <li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#computers-the-internet">Computers &amp; The Internet</a><ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-is-a-computer">What is a computer?</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-computational-skills-are-necessary-for-your-goals">What computational skills are necessary for your goals?</a></li>
@@ -1018,7 +1033,10 @@ Singularity and Docker are popular toolsets used to create and manage containers
 </li>
 <li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#computing-environment">Computing Environment</a><ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-is-your-environment">What is your environment?</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#local-environments">Local environments</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#local-environments">Local environments</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#installing-software">Installing software</a></li>
+</ul>
+</li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#virtual-environments">Virtual environments</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-cloud">The “Cloud”</a></li>
 </ul>
