@@ -51,7 +51,7 @@ We have been discussing different aspects and stages of digital scholarship proj
 
 * An important step in acculturation to DH methodologies is learning how to translate your goals into the language and categories used by tools and training documentation. In this example from Programming Historian, you can see how lessons fall into broad phases or categories. While these are not a 1-1 match to language we used in previous sessions, the frameworks are consistent (*sustain* is similar to *preserve*, *acquire* is similar to *collect* and so on).
 
-[![phlessons](../sections/images/phlessons.png)](https://programminghistorian.org/posts/full-text-search)     
+[![phlessons](../images/phlessons.png)](https://programminghistorian.org/posts/full-text-search)     
 
 
 # Being a newcomer to digital scholarship       
