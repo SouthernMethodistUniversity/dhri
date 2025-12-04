@@ -27,7 +27,7 @@ None of those things can happen without a plan. If you walk out those doors toda
 * There may be workshops available, or they may be those in your community or at your institution who have project management experience or are Project Management Professionals (PMP). 
 * Remember your goal, and account for the time, labor (expertise), and money you have available for your project. 
     * There is a maxim that a project can be 2 of the 3 following things (but not all 3): [fast, cheap or good.](https://medium.com/@devsociety_/good-cheap-fast-pick-two-and-how-ngos-can-play-the-triangle-like-a-pro-20d1380884a8)
-    * You need both a long term view of your project as well as a short term view. Good project planning helps you keep these views in balance.  This will help you avoid both and irrational belief that things will just work out magical thinking) as well as increase you ability to adapt to changing circumstance without being overwhelmed by "failure." 
+    * You need both a long term view of your project as well as a short term view. Good project planning helps you keep these views in balance.  This will help you avoid both and irrational belief that things will just work out (magical thinking) as well as increase your ability to adapt to changing circumstance without being overwhelmed by "failure." 
 
 ## Brief project plan 
 

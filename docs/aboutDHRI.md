@@ -1,5 +1,4 @@
-# Welcome to DHRI@SMU 2024! **Note:DRAFT**
-
+# Welcome to DHRI@SMU 2024!
 ## Before DHRI begins, please do the following: 
 
 ### Microsoft Teams
